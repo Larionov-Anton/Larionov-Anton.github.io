@@ -1,7 +1,7 @@
 # Larionov-Anton.github.io
 ## About me
 
-<img src="img/myphoto.jpg" style="height=50px;"></img>
+<img src="img/myphoto.jpg" alt="drawing" width="250" height="270"/>
 
 :hand: Я Junior Frontend разработчик. Верстаю лендинги и небольшие статические сайты. Углубленно изучаю Java Script, jQuery & React. 
 
