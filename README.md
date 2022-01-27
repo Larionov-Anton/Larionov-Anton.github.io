@@ -3,8 +3,7 @@
 <style type="text/css">
 	.myphoto {
 		float:left;
-		padding-right:10px;
-		padding-bottom:10px;
+		margin: 0px 10px 10px 0px; 
 		width:250px; 
 		height:250px;
 	}
