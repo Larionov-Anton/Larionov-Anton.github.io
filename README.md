@@ -1,7 +1,7 @@
 <style type="text/css">
 	.myphoto {
 		position:relative;
-		margin: 0px 20px 20px 0px; 
+		margin: 0px 50px 20px 0px; 
 		flex: 0 1 250px;
 		height: 290px;	
 	}
@@ -21,6 +21,9 @@
 	.about {
 		flex: 0 1 60%;
 	}
+	h3 {
+		margin-top: 10px !important; 
+	}
 </style>
 
 <div class="row">
@@ -31,17 +34,17 @@
 
 <h3> About me </h3>
 
-Я Junior Frontend разработчик. Верстаю лендинги и небольшие статические сайты. Углубленно изучаю Java Script, jQuery & React.
+<p>Я Junior Frontend разработчик. Верстаю лендинги и небольшие статические сайты. Углубленно изучаю Java Script, jQuery & React.</p>
 
-В настоящее время ищу работу в IT компании и команду для совместной веб разработки.
+<p>В настоящее время ищу работу в IT компании и команду для совместной веб разработки.</p>
 
-В свободное время занимаюсь йогой, играю на гитаре, африканском барабане джембе,  и горным трекингом.
-
-</div>
+<p>В свободное время занимаюсь йогой, играю на гитаре, африканском барабане джембе,  и горным трекингом.</p>
 
 </div>
 
-<img src="img/icons/tools.png"/> Follow me:
+</div>
+
+<h3>Follow me:</h3>
 
 [![instagram](https://img.shields.io/badge/INSTARAM-6DB284?style=flat&logo=instagram&logoColor=B83092)](https://www.instagram.com/seignior.anlarion/)
 [![vk](https://img.shields.io/badge/VKONTACTE-6DB284?style=flat&logo=vk&logoColor=5181B8)](https://vk.com/larionov66)
