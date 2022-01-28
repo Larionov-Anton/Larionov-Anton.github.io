@@ -3,7 +3,7 @@
 		position:relative;
 		margin: 0px 20px 20px 0px; 
 		flex: 0 1 250px;
-		height: 270px;	
+		height: 290px;	
 	}
 	.img {
 		position: absolute;
@@ -32,13 +32,16 @@
 <h3> About me </h3>
 
 Я Junior Frontend разработчик. Верстаю лендинги и небольшие статические сайты. Углубленно изучаю Java Script, jQuery & React.
+
 В настоящее время ищу работу в IT компании и команду для совместной веб разработки.
+
 В свободное время занимаюсь йогой, играю на гитаре, африканском барабане джембе,  и горным трекингом.
-</div>
 
 </div>
 
-<h3>Follow me:</h3>
+</div>
+
+<img src="img/icons/tools.png"/> Follow me:
 
 [![instagram](https://img.shields.io/badge/INSTARAM-6DB284?style=flat&logo=instagram&logoColor=B83092)](https://www.instagram.com/seignior.anlarion/)
 [![vk](https://img.shields.io/badge/VKONTACTE-6DB284?style=flat&logo=vk&logoColor=5181B8)](https://vk.com/larionov66)
