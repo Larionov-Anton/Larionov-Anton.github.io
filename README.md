@@ -2,22 +2,46 @@
  
 <style type="text/css">
 	.myphoto {
-		float:left;
-		margin: 0px 10px 10px 0px; 
-		width:250px; 
-		height:250px;
+		position:relative;
+		margin: 0px 20px 20px 0px; 
+		flex: 0 1 40%;
+	}
+	.img {
+		position: absolute;
+    	width: 100%;
+    	height: 100%;
+    	top: 0;
+    	left: 0;
+    	-o-object-fit: cover;
+    	object-fit: cover;
+	}
+	.row {
+		display:flex;
+	}
+	.about {
+		flex: 0 1 60%;
+	}
+	.tel {
+		display:inline-block;
+		background-color: #6DB284;
+		padding: 0px 5px;
+		color: #fff;
 	}
 </style>
 
-<div class="myphoto"><img src="img/myphoto.jpg"/></div>
+<div class="row">
 
-## About me 
+<div class="myphoto"><img class="img" src="img/myphoto.jpg"/></div>
 
-<p> Я Junior Frontend разработчик. Верстаю лендинги и небольшие статические сайты. Углубленно изучаю Java Script, jQuery & React. </p>
+<div class="about">
 
+### About me 
+Я Junior Frontend разработчик. Верстаю лендинги и небольшие статические сайты. Углубленно изучаю Java Script, jQuery & React.
 В настоящее время ищу работу в IT компании и команду для совместной веб разработки.
-
 В свободное время занимаюсь йогой, играю на гитаре, африканском барабане джембе,  и горным трекингом.
+</div>
+
+</div>
 
 ### Follow me:
 
@@ -25,7 +49,8 @@
 [![vk](https://img.shields.io/badge/VKONTACTE-6DB284?style=flat&logo=vk&logoColor=5181B8)](https://vk.com/larionov66)
 [![twitter](https://img.shields.io/badge/TWITTER-6DB284?style=flat&logo=twitter&logoColor=209BF3)](https://twitter.com/larionov_anton1)
 [![telegramm](https://img.shields.io/badge/TELEGRAMM-6DB284?style=flat&logo=telegram&logoColor=1D97C9)](https://t.me/AntonLarionov1)
-![telegramm](https://img.shields.io/badge/PHONE_+7_(988)_570_72_57-6DB284?style=flat&logo=telegram&logoColor=1D97C9)
+[![phone](https://img.shields.io/badge/PHONE_+7_(988)_570_72_57-6DB284?style=flat&logo=telegram&logoColor=1D97C9)](tel:+79885707257)
+[![email](https://img.shields.io/badge/EMAIL_larionovanton05@gmail.com-6DB284?style=flat&logo=telegram&logoColor=1D97C9)](mailto:larionovanton05@gmail.com)
 
 ### Tech Stack:
 
