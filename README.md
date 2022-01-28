@@ -2,7 +2,7 @@
 	.myphoto {
 		position:relative;
 		margin: 0px 50px 20px 0px; 
-		flex: 0 1 250px;
+		flex: 0 0 250px;
 		height: 290px;	
 	}
 	.img {
@@ -27,7 +27,7 @@
 	}
 	.portfolio-img {
 		position:relative;
-		flex: 0 1 350px;
+		flex: 0 0 350px;
 		height: 390px;
 		margin: 0 50px 0 0;
 	}
@@ -92,23 +92,24 @@
 
 
 <h2>Портфолио</h2>
+
+![3](https://img.shields.io/badge/CSS3-6DB284?style=flat&logo=css3&logoColor=117B11)
+
 <div class="portfolio-row">
 <div class="portfolio-img"><img src="img/startup.png"/></div>
 <div class="info">
 <h3>О проекте</h3>
+
+
+
 <ul>
-<li>Tech Stack</li>
+<li>
 
-![html](https://img.shields.io/badge/HTML5-6DB284?style=flat&logo=html5&logoColor=E34F26)
-![css](https://img.shields.io/badge/CSS3-6DB284?style=flat&logo=css3&logoColor=117B11)
-![scss](https://img.shields.io/badge/SCSS-6DB284?style=flat&logo=sass&logoColor=D05385)
-![js](https://img.shields.io/badge/JAVASCRIPT-6DB284?style=flat&logo=javascript&logoColor=F7E01D)
-![jq](https://img.shields.io/badge/JQUERY-6DB284?style=flat&logo=jquery&logoColor=193657)
-![git](https://img.shields.io/badge/GIT-6DB284?style=flat&logo=git&logoColor=DF4C37)
-![vscode](https://img.shields.io/badge/VSCODE-6DB284?style=flat&logo=Visualstudio&logoColor=0278CB)
 
-![prepros](https://img.shields.io/badge/PREPROS-6DB284?style=flat&logo=webpack&logoColor=20C4E1)
 
+
+
+</li>
 
 <li>Префиксы под все современные браузеры</li>
 <li>Адаптив по брейк пойнтам под любые устройства </li>
