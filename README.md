@@ -14,19 +14,38 @@
     	-o-object-fit: cover;
     	object-fit: cover;
 	}
-	.row {
+	.about-row {
 		display:flex;
 		align-items:center;
 	}
-	.about {
-		flex: 0 1 60%;
-	}
+
 	h3 {
 		margin-top: 10px !important; 
 	}
+	.portfolio-row {
+		display:flex;
+	}
+	.portfolio-img {
+		position:relative;
+		flex: 0 1 350px;
+		height: 390px;
+		margin: 0 50px 0 0;
+	}
+	.portfolio-img>img {
+		position: absolute;
+    	width: 100%;
+    	height: 100%;
+    	top: 0;
+    	left: 0;
+    	-o-object-fit: cover;
+    	object-fit: cover;
+	}
+	h2 {
+		text-align:center;
+	}
 </style>
 
-<div class="row">
+<div class="about-row">
 
 <div class="myphoto"><img class="img" src="img/myphoto.jpg"/></div>
 
@@ -67,10 +86,40 @@
 ![github](https://img.shields.io/badge/GITHUB-6DB284?style=flat&logo=github&logoColor=000000)
 ![vscode](https://img.shields.io/badge/VSCODE-6DB284?style=flat&logo=Visualstudio&logoColor=0278CB)
 ![gulp](https://img.shields.io/badge/GULP-6DB284?style=flat&logo=gulp&logoColor=E84C51)
-![avokode](https://img.shields.io/badge/PHOTOSHOP-6DB284?style=flat&logo=adobephotoshop&logoColor=001E36)
+![photoshop](https://img.shields.io/badge/PHOTOSHOP-6DB284?style=flat&logo=adobephotoshop&logoColor=001E36)
+![avocode](https://img.shields.io/badge/AVOCODE-6DB284?style=flat&logo=adobephotoshop&logoColor=00BD87)
+![prepros](https://img.shields.io/badge/PREPROS-6DB284?style=flat&logo=webpack&logoColor=20C4E1)
 
 
+<h2>Портфолио</h2>
+<div class="portfolio-row">
+<div class="portfolio-img"><img src="img/startup.png"/></div>
+<div class="info">
+<h3>О проекте</h3>
+<ul>
+<li>Tech Stack</li>
 
+![html](https://img.shields.io/badge/HTML5-6DB284?style=flat&logo=html5&logoColor=E34F26)
+![css](https://img.shields.io/badge/CSS3-6DB284?style=flat&logo=css3&logoColor=117B11)
+![scss](https://img.shields.io/badge/SCSS-6DB284?style=flat&logo=sass&logoColor=D05385)
+![js](https://img.shields.io/badge/JAVASCRIPT-6DB284?style=flat&logo=javascript&logoColor=F7E01D)
+![jq](https://img.shields.io/badge/JQUERY-6DB284?style=flat&logo=jquery&logoColor=193657)
+![git](https://img.shields.io/badge/GIT-6DB284?style=flat&logo=git&logoColor=DF4C37)
+![vscode](https://img.shields.io/badge/VSCODE-6DB284?style=flat&logo=Visualstudio&logoColor=0278CB)
+
+![prepros](https://img.shields.io/badge/PREPROS-6DB284?style=flat&logo=webpack&logoColor=20C4E1)
+
+
+<li>Префиксы под все современные браузеры</li>
+<li>Адаптив по брейк пойнтам под любые устройства </li>
+<li>Full screen блок главного экрана</li>
+<li>2 слайдера реализованный при помощи библиотеки slick slaider</li>
+<li>Блок с табуляцией</li>
+<li>Форма с валидацией</li>
+<li>Блог</li>
+</ul>
+</div>
+</div>
 
 
 
