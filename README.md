@@ -1,10 +1,9 @@
-
- 
 <style type="text/css">
 	.myphoto {
 		position:relative;
 		margin: 0px 20px 20px 0px; 
-		flex: 0 1 40%;
+		flex: 0 1 200px;
+		height: 220px;	
 	}
 	.img {
 		position: absolute;
@@ -17,15 +16,10 @@
 	}
 	.row {
 		display:flex;
+		align-items:center;
 	}
 	.about {
 		flex: 0 1 60%;
-	}
-	.tel {
-		display:inline-block;
-		background-color: #6DB284;
-		padding: 0px 5px;
-		color: #fff;
 	}
 </style>
 
@@ -36,6 +30,7 @@
 <div class="about">
 
 ### About me 
+
 Я Junior Frontend разработчик. Верстаю лендинги и небольшие статические сайты. Углубленно изучаю Java Script, jQuery & React.
 В настоящее время ищу работу в IT компании и команду для совместной веб разработки.
 В свободное время занимаюсь йогой, играю на гитаре, африканском барабане джембе,  и горным трекингом.
@@ -44,7 +39,6 @@
 </div>
 
 ### Follow me:
-
 [![instagram](https://img.shields.io/badge/INSTARAM-6DB284?style=flat&logo=instagram&logoColor=B83092)](https://www.instagram.com/seignior.anlarion/)
 [![vk](https://img.shields.io/badge/VKONTACTE-6DB284?style=flat&logo=vk&logoColor=5181B8)](https://vk.com/larionov66)
 [![twitter](https://img.shields.io/badge/TWITTER-6DB284?style=flat&logo=twitter&logoColor=209BF3)](https://twitter.com/larionov_anton1)
@@ -53,7 +47,6 @@
 [![email](https://img.shields.io/badge/EMAIL_larionovanton05@gmail.com-6DB284?style=flat&logo=telegram&logoColor=1D97C9)](mailto:larionovanton05@gmail.com)
 
 ### Tech Stack:
-
 ![html](https://img.shields.io/badge/HTML5-6DB284?style=flat&logo=html5&logoColor=E34F26)
 ![css](https://img.shields.io/badge/CSS3-6DB284?style=flat&logo=css3&logoColor=117B11)
 ![scss](https://img.shields.io/badge/SCSS-6DB284?style=flat&logo=sass&logoColor=D05385)
@@ -61,7 +54,6 @@
 ![jq](https://img.shields.io/badge/JQUERY-6DB284?style=flat&logo=jquery&logoColor=193657)
 
 ### Tools:
-
 ![git](https://img.shields.io/badge/GIT-6DB284?style=flat&logo=git&logoColor=DF4C37)
 ![github](https://img.shields.io/badge/GITHUB-6DB284?style=flat&logo=github&logoColor=000000)
 ![vscode](https://img.shields.io/badge/VSCODE-6DB284?style=flat&logo=Visualstudio&logoColor=0278CB)
