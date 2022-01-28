@@ -47,6 +47,21 @@
 	span {
 		font-style:italic;
 	}
+
+	.project-title:before {
+	 padding-right: 0.3em;
+    margin-left: -2em;
+    content: "///";
+    color: #701E16;
+	}
+	.project-title {
+	 margin-bottom: 8px;
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #474747;
+    text-indent: 3px;
+	}
 </style>
 
 <div class="about-row">
@@ -78,7 +93,7 @@
 
 <h3>Tech Stack:</h3>
 
-![html](https://img.shields.io/badge/HTML5-6DB284?style=flat&logo=html5&logoColor=E34F26)
+![html](https://img.shields.io/badge/HTML5-474747?style=flat&logo=html5&logoColor=E34F26)
 ![css](https://img.shields.io/badge/CSS3-6DB284?style=flat&logo=css3&logoColor=117B11)
 ![scss](https://img.shields.io/badge/SCSS-6DB284?style=flat&logo=sass&logoColor=D05385)
 ![js](https://img.shields.io/badge/JAVASCRIPT-6DB284?style=flat&logo=javascript&logoColor=F7E01D)
@@ -96,7 +111,7 @@
 
 
 <h2>Портфолио</h2>
-<h3>Startup</h3>
+<div class="project-title">Startup</div>
 
 ![html](https://img.shields.io/badge/HTML5-701E16?style=plastic&logo=html5&logoColor=E34F26)
 ![css](https://img.shields.io/badge/CSS3-701E16?style=plastic&logo=css3&logoColor=117B11)
@@ -111,7 +126,7 @@
 <div class="portfolio-row">
 <div class="portfolio-img"><img src="img/startup.png"/></div>
 <div class="info">
-<h3>О проекте</h3>
+<h3 class="project-title">О проекте</h3>
 <p><span>Одностраничный лендинг</span></p>
 <ul>
 <li>Префиксы под все современные браузеры</li>
