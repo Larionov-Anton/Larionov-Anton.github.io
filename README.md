@@ -99,12 +99,12 @@
 
 <h3>Follow me:</h3>
 
-[![instagram](https://img.shields.io/badge/INSTARAM-504E4F?style=flat&logo=instagram&logoColor=B83092)](https://www.instagram.com/seignior.anlarion/)
-[![vk](https://img.shields.io/badge/VKONTACTE-504E4F?style=flat&logo=vk&logoColor=5181B8)](https://vk.com/larionov66)
-[![twitter](https://img.shields.io/badge/TWITTER-504E4F?style=flat&logo=twitter&logoColor=209BF3)](https://twitter.com/larionov_anton1)
-[![telegramm](https://img.shields.io/badge/TELEGRAMM-504E4F?style=flat&logo=telegram&logoColor=1D97C9)](https://t.me/AntonLarionov1)
-[![phone](https://img.shields.io/badge/PHONE_+7_(988)_570_72_57-504E4F?style=flat&logo=apple&logoColor=D9D9D9)](tel:+79885707257)
-[![email](https://img.shields.io/badge/EMAIL_larionovanton05@gmail.com-504E4F?style=flat&logo=gmail&logoColor=F44336)](mailto:larionovanton05@gmail.com)
+[![instagram](https://img.shields.io/badge/INSTARAM-7A8573?style=flat&logo=instagram&logoColor=B83092)](https://www.instagram.com/seignior.anlarion/)
+[![vk](https://img.shields.io/badge/VKONTACTE-7A8573?style=flat&logo=vk&logoColor=5181B8)](https://vk.com/larionov66)
+[![twitter](https://img.shields.io/badge/TWITTER-7A8573?style=flat&logo=twitter&logoColor=209BF3)](https://twitter.com/larionov_anton1)
+[![telegramm](https://img.shields.io/badge/TELEGRAMM-7A8573?style=flat&logo=telegram&logoColor=1D97C9)](https://t.me/AntonLarionov1)
+[![phone](https://img.shields.io/badge/PHONE_+7_(988)_570_72_57-7A8573?style=flat&logo=apple&logoColor=D9D9D9)](tel:+79885707257)
+[![email](https://img.shields.io/badge/EMAIL_larionovanton05@gmail.com-7A8573?style=flat&logo=gmail&logoColor=F44336)](mailto:larionovanton05@gmail.com)
 
 <h3>Tech Stack:</h3>
 
@@ -116,13 +116,13 @@
 
 <h3>Tools:</h3>
 
-![git](https://img.shields.io/badge/GIT-474747?style=flat&logo=git&logoColor=DF4C37)
-![github](https://img.shields.io/badge/GITHUB-474747?style=flat&logo=github&logoColor=000000)
-![vscode](https://img.shields.io/badge/VSCODE-474747?style=flat&logo=Visualstudio&logoColor=0278CB)
-![gulp](https://img.shields.io/badge/GULP-474747?style=flat&logo=gulp&logoColor=E84C51)
-![photoshop](https://img.shields.io/badge/PHOTOSHOP-474747?style=flat&logo=adobephotoshop&logoColor=001E36)
-![avocode](https://img.shields.io/badge/AVOCODE-474747?style=flat&logo=adobephotoshop&logoColor=00BD87)
-![prepros](https://img.shields.io/badge/PREPROS-474747?style=flat&logo=webpack&logoColor=20C4E1)
+![git](https://img.shields.io/badge/GIT-7A8573?style=flat&logo=git&logoColor=DF4C37)
+![github](https://img.shields.io/badge/GITHUB-7A8573?style=flat&logo=github&logoColor=000000)
+![vscode](https://img.shields.io/badge/VSCODE-7A8573?style=flat&logo=Visualstudio&logoColor=0278CB)
+![gulp](https://img.shields.io/badge/GULP-7A8573?style=flat&logo=gulp&logoColor=E84C51)
+![photoshop](https://img.shields.io/badge/PHOTOSHOP-7A8573?style=flat&logo=adobephotoshop&logoColor=001E36)
+![avocode](https://img.shields.io/badge/AVOCODE-7A8573?style=flat&logo=adobephotoshop&logoColor=00BD87)
+![prepros](https://img.shields.io/badge/PREPROS-7A8573?style=flat&logo=webpack&logoColor=20C4E1)
 
 
 <h2 class="portfolio-title">Portfolio</h2>
