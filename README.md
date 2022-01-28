@@ -18,7 +18,6 @@
 		display:flex;
 		align-items:center;
 	}
-
 	h3 {
 		margin-top: 10px !important; 
 	}
@@ -40,10 +39,7 @@
     	-o-object-fit: cover;
     	object-fit: cover;
 	}
-	h2 {
-		text-align:center;
-		margin-top: 50px;
-	}
+
 	span {
 		font-style:italic;
 	}
@@ -76,6 +72,11 @@
 	a:active {
 	outline: none;
 	}
+	.portfolio-title {
+		text-align:center;
+		font-size: 30px !important;
+		margin: 80px 0 50px 0;
+	}
 </style>
 
 <div class="about-row">
@@ -98,20 +99,20 @@
 
 <h3>Follow me:</h3>
 
-[![instagram](https://img.shields.io/badge/INSTARAM-474747?style=flat&logo=instagram&logoColor=B83092)](https://www.instagram.com/seignior.anlarion/)
-[![vk](https://img.shields.io/badge/VKONTACTE-474747?style=flat&logo=vk&logoColor=5181B8)](https://vk.com/larionov66)
-[![twitter](https://img.shields.io/badge/TWITTER-474747?style=flat&logo=twitter&logoColor=209BF3)](https://twitter.com/larionov_anton1)
-[![telegramm](https://img.shields.io/badge/TELEGRAMM-474747?style=flat&logo=telegram&logoColor=1D97C9)](https://t.me/AntonLarionov1)
-[![phone](https://img.shields.io/badge/PHONE_+7_(988)_570_72_57-474747?style=flat&logo=apple&logoColor=D9D9D9)](tel:+79885707257)
-[![email](https://img.shields.io/badge/EMAIL_larionovanton05@gmail.com-474747?style=flat&logo=gmail&logoColor=F44336)](mailto:larionovanton05@gmail.com)
+[![instagram](https://img.shields.io/badge/INSTARAM-504E4F?style=flat&logo=instagram&logoColor=B83092)](https://www.instagram.com/seignior.anlarion/)
+[![vk](https://img.shields.io/badge/VKONTACTE-504E4F?style=flat&logo=vk&logoColor=5181B8)](https://vk.com/larionov66)
+[![twitter](https://img.shields.io/badge/TWITTER-504E4F?style=flat&logo=twitter&logoColor=209BF3)](https://twitter.com/larionov_anton1)
+[![telegramm](https://img.shields.io/badge/TELEGRAMM-504E4F?style=flat&logo=telegram&logoColor=1D97C9)](https://t.me/AntonLarionov1)
+[![phone](https://img.shields.io/badge/PHONE_+7_(988)_570_72_57-504E4F?style=flat&logo=apple&logoColor=D9D9D9)](tel:+79885707257)
+[![email](https://img.shields.io/badge/EMAIL_larionovanton05@gmail.com-504E4F?style=flat&logo=gmail&logoColor=F44336)](mailto:larionovanton05@gmail.com)
 
 <h3>Tech Stack:</h3>
 
-![html](https://img.shields.io/badge/HTML5-474747?style=flat&logo=html5&logoColor=E34F26)
-![css](https://img.shields.io/badge/CSS3-474747?style=flat&logo=css3&logoColor=117B11)
-![scss](https://img.shields.io/badge/SCSS-474747?style=flat&logo=sass&logoColor=D05385)
-![js](https://img.shields.io/badge/JAVASCRIPT-474747?style=flat&logo=javascript&logoColor=F7E01D)
-![jq](https://img.shields.io/badge/JQUERY-474747?style=flat&logo=jquery&logoColor=193657)
+![html](https://img.shields.io/badge/HTML5-7A8573?style=flat&logo=html5&logoColor=E34F26)
+![css](https://img.shields.io/badge/CSS3-7A8573?style=flat&logo=css3&logoColor=117B11)
+![scss](https://img.shields.io/badge/SCSS-7A8573?style=flat&logo=sass&logoColor=D05385)
+![js](https://img.shields.io/badge/JAVASCRIPT-7A8573?style=flat&logo=javascript&logoColor=F7E01D)
+![jq](https://img.shields.io/badge/JQUERY-7A8573?style=flat&logo=jquery&logoColor=193657)
 
 <h3>Tools:</h3>
 
@@ -124,7 +125,7 @@
 ![prepros](https://img.shields.io/badge/PREPROS-474747?style=flat&logo=webpack&logoColor=20C4E1)
 
 
-<h2>Portfolio</h2>
+<h2 class="portfolio-title">Portfolio</h2>
 <a href="https://larionov-anton.github.io/startup/" class="project-title">Startup</a>
 
 ![html](https://img.shields.io/badge/HTML5-701E16?style=plastic&logo=html5&logoColor=E34F26)
