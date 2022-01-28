@@ -1,4 +1,7 @@
 <style type="text/css">
+	header {
+		background: #051F32 !important;
+	}
 	.myphoto {
 		position:relative;
 		margin: 0px 50px 20px 0px; 
