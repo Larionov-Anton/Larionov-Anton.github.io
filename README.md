@@ -1,4 +1,10 @@
 <style type="text/css">
+	#main-content h2:before {
+		color: #051F32;
+	}
+	#main-content h3:before {
+		color: #051F32;
+	}
 	header {
 		background: #051F32 !important;
 	}
