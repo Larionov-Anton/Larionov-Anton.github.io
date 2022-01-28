@@ -27,8 +27,8 @@
 	}
 	.portfolio-img {
 		position:relative;
-		flex: 0 0 350px;
-		height: 390px;
+		flex: 0 0 250px;
+		height: 290px;
 		margin: 0 50px 0 0;
 	}
 	.portfolio-img>img {
@@ -42,6 +42,10 @@
 	}
 	h2 {
 		text-align:center;
+		margin-top: 50px;
+	}
+	span {
+		font-style:italic;
 	}
 </style>
 
@@ -92,25 +96,24 @@
 
 
 <h2>Портфолио</h2>
+<h3>Startup</h3>
 
-![3](https://img.shields.io/badge/CSS3-6DB284?style=flat&logo=css3&logoColor=117B11)
+![html](https://img.shields.io/badge/HTML5-701E16?style=plastic&logo=html5&logoColor=E34F26)
+![css](https://img.shields.io/badge/CSS3-701E16?style=plastic&logo=css3&logoColor=117B11)
+![scss](https://img.shields.io/badge/SCSS-701E16?style=plastic&logo=sass&logoColor=D05385)
+![js](https://img.shields.io/badge/JAVASCRIPT-701E16?style=plastic&logo=javascript&logoColor=F7E01D)
+![jq](https://img.shields.io/badge/JQUERY-701E16?style=plastic&logo=jquery&logoColor=193657)
+![git](https://img.shields.io/badge/GIT-701E16?style=plastic&logo=git&logoColor=DF4C37)
+![vscode](https://img.shields.io/badge/VSCODE-701E16?style=plastic&logo=Visualstudio&logoColor=0278CB)
+![prepros](https://img.shields.io/badge/PREPROS-701E16?style=plastic&logo=webpack&logoColor=20C4E1)
+![marsy](https://img.shields.io/badge/MARSY-701E16?style=plastic&logo=adobephotoshop&logoColor=FCEC7D)
 
 <div class="portfolio-row">
 <div class="portfolio-img"><img src="img/startup.png"/></div>
 <div class="info">
 <h3>О проекте</h3>
-
-
-
+<p><span>Одностраничный лендинг</span></p>
 <ul>
-<li>
-
-
-
-
-
-</li>
-
 <li>Префиксы под все современные браузеры</li>
 <li>Адаптив по брейк пойнтам под любые устройства </li>
 <li>Full screen блок главного экрана</li>
