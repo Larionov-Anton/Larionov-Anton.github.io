@@ -89,7 +89,10 @@
     	margin-left: 0;
     	content: none;
 	}
-
+	.main-title {
+		padding-left: 20px;
+		font-size: 22px;
+	}
 	/* @media (max-width:960px) {
 		.project-title:before {
 			content: "";	
