@@ -1,23 +1,63 @@
 <style type="text/css">
-	
+/* Измененные стили темы */
 
-	
-	#main-content h2:before {
-		color: #051F32;
-	}
-	#main-content h3:before {
-		color: #051F32;
-	}
 	header {
 		background: #051F32 !important;
 	}
-	.myphoto {
+
+	h3 {
+		margin-top: 10px !important; 
+	}
+
+	a {
+		color: #474747;
+		transition: all 0.5s ease 0s;
+	}
+
+	a:hover {
+		text-decoration: none;
+		color: #0D70A3;
+	}
+
+	a:visited {
+	text-decoration: none;
+	}
+
+	a:focus,
+	a:active {
+	outline: none;
+	}
+
+	aside#sidebar {
+		display:none !important;
+	}
+
+	#main-content {
+    float: none;
+    width: 100% !important;
+	}
+
+	#main-content h3:before, #main-content h2:before {
+		padding-right: 0;
+    	margin-left: 0;
+    	content: none;
+	}
+
+/* Собственные стили */
+
+	.about__row {
+		display:flex;
+		align-items:center;
+	}
+
+	.about__myphoto {
 		position:relative;
 		margin: 0px 20px 20px 0px; 
 		flex: 0 0 250px;
 		height: 290px;	
 	}
-	.img {
+
+	.about__img {
 		position: absolute;
     	width: 100%;
     	height: 100%;
@@ -26,23 +66,25 @@
     	-o-object-fit: cover;
     	object-fit: cover;
 	}
-	.about-row {
+
+	.portfolio__title {
+		text-align:center;
+		font-size: 30px !important;
+		margin: 80px 0 50px 0;
+	}
+
+	.portfolio__row {
 		display:flex;
-		align-items:center;
 	}
-	h3 {
-		margin-top: 10px !important; 
-	}
-	.portfolio-row {
-		display:flex;
-	}
-	.portfolio-img {
+
+	.portfolio__img {
 		position:relative;
 		flex: 0 0 250px;
 		height: 290px;
 		margin: 0 20px 0 0;
 	}
-	.portfolio-img>img {
+
+	.portfolio__img>img {
 		position: absolute;
     	width: 100%;
     	height: 100%;
@@ -56,104 +98,53 @@
 		font-style:italic;
 	}
 
-
-	a {
-		color: #474747;
-		transition: all 0.5s ease 0s;
-	}
-	a:hover {
-		text-decoration: none;
-		color: #0D70A3;
-	}
-	a:visited {
-	text-decoration: none;
-	}
-	a:focus,
-	a:active {
-	outline: none;
-	}
-	.portfolio-title {
-		text-align:center;
-		font-size: 30px !important;
-		margin: 80px 0 50px 0;
-	}
-	aside#sidebar {
-		display:none !important;
-	}
-	#main-content {
-    float: none;
-    width: 100% !important;
-	}
-	#main-content h3:before, #main-content h2:before {
-		padding-right: 0;
-    	margin-left: 0;
-    	content: none;
-	}
-	.main-title {
+	.header__title {
 		padding: 10px 0px 0 40px;
 		font-size: 20px;
 	}
-	/* @media (max-width:960px) {
-		.project-title:before {
-			content: "";	
-		}	
-		.myphoto {	
-			flex: 0 0 200px	;
-			height: 240px;	
-			margin: 0px 20px 20px 0px; 
-		}
-		.portfolio-img {
-			flex: 0 0 200px;
-			height: 240px;
-			margin: 0 20px 0 0;
-		}
-	} */
+
+/* Медиа запросы */
+
 	@media (max-width:768px) {
-		.about-row {
+		.about__row {
 			flex-direction:column;
 		}
-		.myphoto {
+		.about__myphoto {
 			margin: 0px 0px 10px 0px; 
 			flex: 0 0 290px;
 			width: 250px;	
 		}
-		.portfolio-row {
+		.portfolio__row {
 			flex-direction:column;
 		}
-		.portfolio-img {
+		.portfolio__img {
 			flex: 0 0 250px;
 			width: 100%;
 			margin: 0 0 10px 0;
 		}
-		.portfolio-title {
+		.portfolio__title {
 			margin: 50px 0 50px 0;
 		}
 	}
+
 	@media (max-width: 424px) {
-		.myphoto {
+		.about__myphoto {
 			flex: 0 0 240px;
 			width: 200px;	
 		}
 	}
 </style>
 
-<div class="about-row">
-
-<div class="myphoto"><img class="img" src="img/myphoto.jpg"/></div>
-
-<div class="about">
-
-<h3> About me </h3>
-
-<p>Я Frontend developer. Верстаю лендинги и небольшие статические сайты. Углубленно изучаю Java Script, jQuery & React.</p>
-
-<p>В настоящее время ищу работу в IT компании и команду для совместной веб разработки.</p>
-
-<p>В свободное время занимаюсь йогой, играю на гитаре, африканском барабане джембе,  и горным трекингом.</p>
-
-</div>
-
-</div>
+<section clas="about">
+	<div class="about__row">
+		<div class="about__myphoto"><img class="about__img" src="img/myphoto.jpg"/></div>
+		<div class="about__description">
+			<h3> About me </h3>
+			<p>Я Frontend developer. Верстаю лендинги и небольшие статические сайты. Углубленно изучаю Java Script, jQuery & React.</p>
+			<p>В настоящее время ищу работу в IT компании и команду для совместной веб разработки.</p>
+			<p>В свободное время занимаюсь йогой, играю на гитаре, африканском барабане джембе,  и горным трекингом.</p>
+		</div>
+	</div>
 
 <h3>Follow me:</h3>
 
@@ -182,9 +173,12 @@
 ![avocode](https://img.shields.io/badge/AVOCODE-7A8573?style=flat&logo=adobephotoshop&logoColor=00BD87)
 ![prepros](https://img.shields.io/badge/PREPROS-7A8573?style=flat&logo=webpack&logoColor=20C4E1)
 
+</section>
 
-<h2 class="portfolio-title">Portfolio</h2>
-<h3><a href="https://larionov-anton.github.io/startup/" class="project-title">Startup</a></h3>
+<section class="portfolio">
+	<div class="portfolio__startup">
+		<h2 class="portfolio__title">Portfolio</h2>
+		<h3><a href="https://larionov-anton.github.io/startup/">Startup</a></h3>
 
 ![html](https://img.shields.io/badge/HTML5-701E16?style=plastic&logo=html5&logoColor=E34F26)
 ![css](https://img.shields.io/badge/CSS3-701E16?style=plastic&logo=css3&logoColor=117B11)
@@ -196,23 +190,24 @@
 ![prepros](https://img.shields.io/badge/PREPROS-701E16?style=plastic&logo=webpack&logoColor=20C4E1)
 ![marsy](https://img.shields.io/badge/MARSY-701E16?style=plastic&logo=adobephotoshop&logoColor=FCEC7D)
 
-<div class="portfolio-row">
-<a href="https://larionov-anton.github.io/startup/" class="portfolio-img"><img src="img/startup.png"/></a>
-<div class="info">
-<h3 class="project-title">About project</h3>
-<p><span>Одностраничный лендинг</span></p>
-<ul>
-<li>Префиксы под все современные браузеры</li>
-<li>Адаптив по брейк пойнтам под любые устройства </li>
-<li>Full screen блок главного экрана</li>
-<li>2 слайдера реализованный при помощи библиотеки slick slaider</li>
-<li>Блок с табуляцией</li>
-<li>Форма с валидацией</li>
-<li>Блог</li>
-</ul>
+   <div class="portfolio__row">
+		<a href="https://larionov-anton.github.io/startup/" class="portfolio__img"><img src="img/startup.png"/></a>
+		<div class="portfolio__description">
+			<h3>About project</h3>
+			<p><span>Одностраничный лендинг</span></p>
+			<ul>
+				<li>Префиксы под все современные браузеры</li>
+				<li>Адаптив по брейк пойнтам под любые устройства </li>
+				<li>Full screen блок главного экрана</li>
+				<li>2 слайдера реализованный при помощи библиотеки slick slaider</li>
+				<li>Блок с табуляцией</li>
+				<li>Форма с валидацией</li>
+				<li>Блог</li>
+			</ul>
+		</div>
+	</div>
 </div>
-</div>
-
+</section>
 
 
 
