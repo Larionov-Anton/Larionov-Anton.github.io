@@ -56,20 +56,8 @@
 		font-style:italic;
 	}
 
-	.project-title:before {
-	 padding-right: 0.3em;
-    margin-left: -2em;
-    content: "///";
-    color: #701E16;
-	}
-	.project-title {
-	 margin-bottom: 8px;
-    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-    font-size: 18px;
-    font-weight: bold;
-    color: #474747;
-    text-indent: 3px;
-	}
+
+
 	a {
 		transition: all 0.5s ease 0s;
 	}
@@ -90,7 +78,7 @@
 		margin: 80px 0 50px 0;
 	}
 
-	@media (max-width:1026px) {
+	@media (max-width:960px) {
 	.project-title:before {
 		content: "";
 	}
@@ -154,7 +142,7 @@
 
 
 <h2 class="portfolio-title">Portfolio</h2>
-<a href="https://larionov-anton.github.io/startup/" class="project-title">Startup</a>
+<a href="https://larionov-anton.github.io/startup/" class="project-title"><h3>Startup</h3></a>
 
 ![html](https://img.shields.io/badge/HTML5-701E16?style=plastic&logo=html5&logoColor=E34F26)
 ![css](https://img.shields.io/badge/CSS3-701E16?style=plastic&logo=css3&logoColor=117B11)
@@ -169,7 +157,7 @@
 <div class="portfolio-row">
 <a href="https://larionov-anton.github.io/startup/" class="portfolio-img"><img src="img/startup.png"/></a>
 <div class="info">
-<div class="project-title">About project</div>
+<h3 class="project-title">About project</h3>
 <p><span>Одностраничный лендинг</span></p>
 <ul>
 <li>Префиксы под все современные браузеры</li>
