@@ -86,20 +86,41 @@
 	}
 
 	@media (max-width:960px) {
-	.project-title:before {
-		content: "";
+		.project-title:before {
+			content: "";	
+		}	
+		.myphoto {	
+			flex: 0 0 200px	;
+			height: 240px;	
+			margin: 0px 20px 20px 0px; 
+		}
+		.portfolio-img {
+			flex: 0 0 200px;
+			height: 240px;
+			margin: 0 20px 0 0;
+		}
 	}
-	.myphoto {
-		flex: 0 0 200px;
-		height: 240px;	
-		margin: 0px 20px 20px 0px; 
+	@media (max-width:768px) {
+		.about-row {
+			flex-direction:column;
+		}
+		.myphoto {
+			margin: 0px 0px 10px 0px; 
+			flex: 0 0 250px;
+			width: 290px;	
+		}
+		.portfolio-row {
+			flex-direction:column;
+		}
+		.portfolio-img {
+			flex: 0 0 250px;
+			width: 100%;
+			margin: 0 0 10px 0;
+		}
+		.portfolio-title {
+			margin: 50px 0 50px 0;
+		}
 	}
-	.portfolio-img {
-		flex: 0 0 200px;
-		height: 240px;
-		margin: 0 20px 0 0;
-	}
-}
 </style>
 
 <div class="about-row">
