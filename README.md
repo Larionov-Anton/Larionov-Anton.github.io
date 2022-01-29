@@ -1,4 +1,5 @@
 <style type="text/css">
+	
 /* Измененные стили темы */
 
 	header {
@@ -67,24 +68,24 @@
     	object-fit: cover;
 	}
 
-	.portfolio__title {
+	.startup__title {
 		text-align:center;
 		font-size: 30px !important;
 		margin: 80px 0 50px 0;
 	}
 
-	.portfolio__row {
+	.startup__row {
 		display:flex;
 	}
 
-	.portfolio__img {
+	.startup__img {
 		position:relative;
 		flex: 0 0 250px;
 		height: 290px;
 		margin: 0 20px 0 0;
 	}
 
-	.portfolio__img>img {
+	.startup__img>img {
 		position: absolute;
     	width: 100%;
     	height: 100%;
@@ -109,15 +110,15 @@
 			flex: 0 0 290px;
 			width: 250px;	
 		}
-		.portfolio__row {
+		.startup__row {
 			flex-direction:column;
 		}
-		.portfolio__img {
+		.startup__img {
 			flex: 0 0 250px;
 			width: 100%;
 			margin: 0 0 10px 0;
 		}
-		.portfolio__title {
+		.startup__title {
 			margin: 50px 0 50px 0;
 		}
 	}
@@ -130,6 +131,7 @@
 	}
 </style>
 
+<!-- Блок краткой информации обо мне -->
 
 <div class="about__row">
 	<div class="about__myphoto"><img class="about__img" src="img/myphoto.jpg"/></div>
@@ -141,6 +143,8 @@
 	</div>
 </div>
 
+<!-- Блок контактов -->
+
 <h3>Follow me:</h3>
 
 [![instagram](https://img.shields.io/badge/INSTARAM-7A8573?style=flat&logo=instagram&logoColor=B83092)](https://www.instagram.com/seignior.anlarion/)
@@ -149,6 +153,8 @@
 [![telegramm](https://img.shields.io/badge/TELEGRAMM-7A8573?style=flat&logo=telegram&logoColor=1D97C9)](https://t.me/AntonLarionov1)
 [![phone](https://img.shields.io/badge/PHONE_+7_(988)_570_72_57-7A8573?style=flat&logo=apple&logoColor=D9D9D9)](tel:+79885707257)
 [![email](https://img.shields.io/badge/EMAIL_larionovanton05@gmail.com-7A8573?style=flat&logo=gmail&logoColor=F44336)](mailto:larionovanton05@gmail.com)
+
+<!-- Блок стека технологий -->
 
 <h3>Tech Stack:</h3>
 
@@ -170,10 +176,10 @@
 
 
 
+<!-- Блок проекта startup -->
 
-<div class="portfolio__startup">
-	<h2 class="portfolio__title">Portfolio</h2>
-	<h3><a href="https://larionov-anton.github.io/startup/">Startup</a></h3>
+<h2 class="startup__title">Portfolio</h2>
+<h3><a href="https://larionov-anton.github.io/startup/">Startup</a></h3>
 
 ![html](https://img.shields.io/badge/HTML5-701E16?style=plastic&logo=html5&logoColor=E34F26)
 ![css](https://img.shields.io/badge/CSS3-701E16?style=plastic&logo=css3&logoColor=117B11)
@@ -185,9 +191,9 @@
 ![prepros](https://img.shields.io/badge/PREPROS-701E16?style=plastic&logo=webpack&logoColor=20C4E1)
 ![marsy](https://img.shields.io/badge/MARSY-701E16?style=plastic&logo=adobephotoshop&logoColor=FCEC7D)
 
-<div class="portfolio__row">
-	<a href="https://larionov-anton.github.io/startup/" class="portfolio__img"><img src="img/startup.png"/></a>
-	<div class="portfolio__description">
+<div class="startup__row">
+	<a href="https://larionov-anton.github.io/startup/" class="startup__img"><img src="img/startup.png"/></a>
+	<div class="startup__description">
 		<h3>About project</h3>
 		<p><span>Одностраничный лендинг</span></p>
 		<ul>
@@ -201,8 +207,8 @@
 			</ul>
 		</div>
 	</div>
-</div>
-</section>
+
+
 
 
 
