@@ -126,6 +126,12 @@
 			margin: 50px 0 50px 0;
 		}
 	}
+	@media (max-width: 424px) {
+		.myphoto {
+			flex: 0 0 240px;
+			width: 200px;	
+		}
+	}
 </style>
 
 <div class="about-row">
