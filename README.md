@@ -90,8 +90,8 @@
     	content: none;
 	}
 	.main-title {
-		padding-left: 20px;
-		font-size: 22px;
+		padding: 10px 0px 0 40px;
+		font-size: 20px;
 	}
 	/* @media (max-width:960px) {
 		.project-title:before {
