@@ -98,11 +98,6 @@
 		font-style:italic;
 	}
 
-	.header__title {
-		padding: 10px 0px 0 40px;
-		font-size: 20px;
-	}
-
 /* Медиа запросы */
 
 	@media (max-width:768px) {
@@ -135,16 +130,16 @@
 	}
 </style>
 
-<section clas="about">
-	<div class="about__row">
-		<div class="about__myphoto"><img class="about__img" src="img/myphoto.jpg"/></div>
-		<div class="about__description">
-			<h3> About me </h3>
-			<p>Я Frontend developer. Верстаю лендинги и небольшие статические сайты. Углубленно изучаю Java Script, jQuery & React.</p>
-			<p>В настоящее время ищу работу в IT компании и команду для совместной веб разработки.</p>
-			<p>В свободное время занимаюсь йогой, играю на гитаре, африканском барабане джембе,  и горным трекингом.</p>
-		</div>
+
+<div class="about__row">
+	<div class="about__myphoto"><img class="about__img" src="img/myphoto.jpg"/></div>
+	<div class="about__description">
+		<h3> About me </h3>
+		<p>Я Frontend developer. Верстаю лендинги и небольшие статические сайты. Углубленно изучаю Java Script, jQuery & React.</p>
+		<p>В настоящее время ищу работу в IT компании и команду для совместной веб разработки.</p>
+		<p>В свободное время занимаюсь йогой, играю на гитаре, африканском барабане джембе,  и горным трекингом.</p>
 	</div>
+</div>
 
 <h3>Follow me:</h3>
 
@@ -173,12 +168,12 @@
 ![avocode](https://img.shields.io/badge/AVOCODE-7A8573?style=flat&logo=adobephotoshop&logoColor=00BD87)
 ![prepros](https://img.shields.io/badge/PREPROS-7A8573?style=flat&logo=webpack&logoColor=20C4E1)
 
-</section>
 
-<section class="portfolio">
-	<div class="portfolio__startup">
-		<h2 class="portfolio__title">Portfolio</h2>
-		<h3><a href="https://larionov-anton.github.io/startup/">Startup</a></h3>
+
+
+<div class="portfolio__startup">
+	<h2 class="portfolio__title">Portfolio</h2>
+	<h3><a href="https://larionov-anton.github.io/startup/">Startup</a></h3>
 
 ![html](https://img.shields.io/badge/HTML5-701E16?style=plastic&logo=html5&logoColor=E34F26)
 ![css](https://img.shields.io/badge/CSS3-701E16?style=plastic&logo=css3&logoColor=117B11)
@@ -190,19 +185,19 @@
 ![prepros](https://img.shields.io/badge/PREPROS-701E16?style=plastic&logo=webpack&logoColor=20C4E1)
 ![marsy](https://img.shields.io/badge/MARSY-701E16?style=plastic&logo=adobephotoshop&logoColor=FCEC7D)
 
-   <div class="portfolio__row">
-		<a href="https://larionov-anton.github.io/startup/" class="portfolio__img"><img src="img/startup.png"/></a>
-		<div class="portfolio__description">
-			<h3>About project</h3>
-			<p><span>Одностраничный лендинг</span></p>
-			<ul>
-				<li>Префиксы под все современные браузеры</li>
-				<li>Адаптив по брейк пойнтам под любые устройства </li>
-				<li>Full screen блок главного экрана</li>
-				<li>2 слайдера реализованный при помощи библиотеки slick slaider</li>
-				<li>Блок с табуляцией</li>
-				<li>Форма с валидацией</li>
-				<li>Блог</li>
+<div class="portfolio__row">
+	<a href="https://larionov-anton.github.io/startup/" class="portfolio__img"><img src="img/startup.png"/></a>
+	<div class="portfolio__description">
+		<h3>About project</h3>
+		<p><span>Одностраничный лендинг</span></p>
+		<ul>
+			<li>Префиксы под все современные браузеры</li>
+			<li>Адаптив по брейк пойнтам под любые устройства </li>
+			<li>Full screen блок главного экрана</li>
+			<li>2 слайдера реализованный при помощи библиотеки slick slaider</li>
+			<li>Блок с табуляцией</li>
+			<li>Форма с валидацией</li>
+			<li>Блог</li>
 			</ul>
 		</div>
 	</div>
