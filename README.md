@@ -57,7 +57,6 @@
 	}
 
 
-
 	a {
 		transition: all 0.5s ease 0s;
 	}
@@ -76,6 +75,9 @@
 		text-align:center;
 		font-size: 30px !important;
 		margin: 80px 0 50px 0;
+	}
+	aside#sidebar {
+		display:none !important;
 	}
 
 	@media (max-width:960px) {
@@ -142,7 +144,7 @@
 
 
 <h2 class="portfolio-title">Portfolio</h2>
-<a href="https://larionov-anton.github.io/startup/" class="project-title"><h3>Startup</h3></a>
+<h3><a href="https://larionov-anton.github.io/startup/" class="project-title">Startup</a></h3>
 
 ![html](https://img.shields.io/badge/HTML5-701E16?style=plastic&logo=html5&logoColor=E34F26)
 ![css](https://img.shields.io/badge/CSS3-701E16?style=plastic&logo=css3&logoColor=117B11)
