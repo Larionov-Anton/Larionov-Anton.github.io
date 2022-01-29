@@ -13,7 +13,7 @@
 	}
 	.myphoto {
 		position:relative;
-		margin: 0px 50px 20px 0px; 
+		margin: 0px 20px 20px 0px; 
 		flex: 0 0 250px;
 		height: 290px;	
 	}
@@ -40,7 +40,7 @@
 		position:relative;
 		flex: 0 0 250px;
 		height: 290px;
-		margin: 0 50px 0 0;
+		margin: 0 20px 0 0;
 	}
 	.portfolio-img>img {
 		position: absolute;
@@ -84,8 +84,13 @@
     float: none;
     width: 100% !important;
 	}
+	#main-content h3:before, #main-content h2:before {
+		padding-right: 0;
+    	margin-left: 0;
+    	content: none;
+	}
 
-	@media (max-width:960px) {
+	/* @media (max-width:960px) {
 		.project-title:before {
 			content: "";	
 		}	
@@ -99,15 +104,15 @@
 			height: 240px;
 			margin: 0 20px 0 0;
 		}
-	}
+	} */
 	@media (max-width:768px) {
 		.about-row {
 			flex-direction:column;
 		}
 		.myphoto {
 			margin: 0px 0px 10px 0px; 
-			flex: 0 0 250px;
-			width: 290px;	
+			flex: 0 0 290px;
+			width: 250px;	
 		}
 		.portfolio-row {
 			flex-direction:column;
