@@ -63,7 +63,7 @@
 	}
 	a:hover {
 		text-decoration: none;
-		color: #701E16;
+		color: #9DDCFF;
 	}
 	a:visited {
 	text-decoration: none;
