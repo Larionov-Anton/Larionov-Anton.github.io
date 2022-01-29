@@ -1,4 +1,7 @@
 <style type="text/css">
+	
+
+	
 	#main-content h2:before {
 		color: #051F32;
 	}
@@ -86,6 +89,22 @@
 		font-size: 30px !important;
 		margin: 80px 0 50px 0;
 	}
+
+	@media (max-width:1026px) {
+	.project-title:before {
+		content: "";
+	}
+	.myphoto {
+		flex: 0 0 200px;
+		height: 240px;	
+		margin: 0px 20px 20px 0px; 
+	}
+	.portfolio-img {
+		flex: 0 0 200px;
+		height: 240px;
+		margin: 0 20px 0 0;
+	}
+}
 </style>
 
 <div class="about-row">
@@ -96,7 +115,7 @@
 
 <h3> About me </h3>
 
-<p>Я Junior Frontend разработчик. Верстаю лендинги и небольшие статические сайты. Углубленно изучаю Java Script, jQuery & React.</p>
+<p>Я Frontend developer. Верстаю лендинги и небольшие статические сайты. Углубленно изучаю Java Script, jQuery & React.</p>
 
 <p>В настоящее время ищу работу в IT компании и команду для совместной веб разработки.</p>
 
