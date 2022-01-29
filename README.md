@@ -58,6 +58,7 @@
 
 
 	a {
+		color: #474747;
 		transition: all 0.5s ease 0s;
 	}
 	a:hover {
@@ -78,6 +79,10 @@
 	}
 	aside#sidebar {
 		display:none !important;
+	}
+	#main-content {
+    float: none;
+    width: 100% !important;
 	}
 
 	@media (max-width:960px) {
