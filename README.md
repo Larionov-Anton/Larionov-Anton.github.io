@@ -192,7 +192,7 @@
 ![marsy](https://img.shields.io/badge/MARSY-701E16?style=plastic&logo=adobephotoshop&logoColor=FCEC7D)
 
 <div class="startup__row">
-	<a href="https://larionov-anton.github.io/startup/" class="startup__img"><img src="img/startup.png"/></a>
+	<a href="https://larionov-anton.github.io/startup/" class="startup__img"><img src="img/startup.jpg"/></a>
 	<div class="startup__description">
 		<h3>About project</h3>
 		<p><span>Одностраничный лендинг</span></p>
