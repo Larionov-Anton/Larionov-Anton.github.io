@@ -147,12 +147,12 @@
 
 <h3>Follow me:</h3>
 
+[![phone](https://img.shields.io/badge/PHONE_+7_(988)_570_72_57-7A8573?style=flat&logo=apple&logoColor=D9D9D9)](tel:+79885707257)
+[![email](https://img.shields.io/badge/EMAIL_larionovanton05@gmail.com-7A8573?style=flat&logo=gmail&logoColor=F44336)](mailto:larionovanton05@gmail.com)
+[![telegramm](https://img.shields.io/badge/TELEGRAMM-7A8573?style=flat&logo=telegram&logoColor=1D97C9)](https://t.me/AntonLarionov1)
 [![instagram](https://img.shields.io/badge/INSTARAM-7A8573?style=flat&logo=instagram&logoColor=B83092)](https://www.instagram.com/seignior.anlarion/)
 [![vk](https://img.shields.io/badge/VKONTACTE-7A8573?style=flat&logo=vk&logoColor=5181B8)](https://vk.com/larionov66)
 [![twitter](https://img.shields.io/badge/TWITTER-7A8573?style=flat&logo=twitter&logoColor=209BF3)](https://twitter.com/larionov_anton1)
-[![telegramm](https://img.shields.io/badge/TELEGRAMM-7A8573?style=flat&logo=telegram&logoColor=1D97C9)](https://t.me/AntonLarionov1)
-[![phone](https://img.shields.io/badge/PHONE_+7_(988)_570_72_57-7A8573?style=flat&logo=apple&logoColor=D9D9D9)](tel:+79885707257)
-[![email](https://img.shields.io/badge/EMAIL_larionovanton05@gmail.com-7A8573?style=flat&logo=gmail&logoColor=F44336)](mailto:larionovanton05@gmail.com)
 
 <!-- Блок стека технологий -->
 
@@ -181,7 +181,7 @@
 <h2 class="startup__title">Portfolio</h2>
 <h3><a href="https://larionov-anton.github.io/startup/">Startup</a></h3>
 
-[![github](https://img.shields.io/badge/View on GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/startup)
+[![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/startup)
 
 ![html](https://img.shields.io/badge/HTML5-701E16?style=plastic&logo=html5&logoColor=E34F26)
 ![css](https://img.shields.io/badge/CSS3-701E16?style=plastic&logo=css3&logoColor=117B11)
