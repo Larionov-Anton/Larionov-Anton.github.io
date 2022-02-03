@@ -137,7 +137,7 @@
 	<div class="about__myphoto"><img class="about__img" src="img/myphoto.jpg"/></div>
 	<div class="about__description">
 		<h3> About me </h3>
-		<p>Я Junior Frontend developer. Верстаю лендинги и небольшие статические сайты. Углубленно изучаю Java Script, jQuery & React.</p>
+		<p>Я Junior Frontend Web Developer. Верстаю лендинги и небольшие статические сайты. Углубленно изучаю фреймворк REACT, алгоритмы, ООП.</p>
 		<p>В настоящее время ищу работу в IT компании и команду для совместной веб разработки.</p>
 		<p>Увлекаюсь медитацией, йогой, горным трекингом и играю на гитаре, африканском барабане джембе.</p>
 	</div>
@@ -181,7 +181,7 @@
 <h2 class="startup__title">Portfolio</h2>
 <h3><a href="https://larionov-anton.github.io/startup/">Startup</a></h3>
 
-[![github](https://img.shields.io/badge/GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/startup)
+[![github](https://img.shields.io/badge/View on GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/startup)
 
 ![html](https://img.shields.io/badge/HTML5-701E16?style=plastic&logo=html5&logoColor=E34F26)
 ![css](https://img.shields.io/badge/CSS3-701E16?style=plastic&logo=css3&logoColor=117B11)
