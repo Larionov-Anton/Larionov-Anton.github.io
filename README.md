@@ -146,6 +146,7 @@
 <!-- Блок контактов -->
 
 <h3>Follow me:</h3>
+[![linkedin](https://img.shields.io/badge/Linkedin-0189B4?style=flat&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/larionov-anton05/)
 <a href="https://freelancehunt.com/freelancer/anton_larionov05.html?from=shield&r=xPWv7" target="_blank"><img src="https://freelancehunt.com/shields/display/id/1109187/type/reviews?style=flat&amp;lang=ru" alt="Freelancehunt — простой и честный фриланс"></a>
 
 [![phone](https://img.shields.io/badge/PHONE_+7_(988)_570_72_57-7A8573?style=flat&logo=apple&logoColor=D9D9D9)](tel:+79885707257)
