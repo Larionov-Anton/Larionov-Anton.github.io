@@ -38,7 +38,7 @@
     width: 100% !important;
 	}
 
-	#main-content h3:before, #main-content h2:before {
+	#main-content h2:before, #main-content h3:before, #main-content h4:before {
 		padding-right: 0;
     	margin-left: 0;
     	content: none;
@@ -51,33 +51,26 @@
 	}
 
 	.about__myphoto {
-		position:relative;
-		margin: 0px 40px 20px 0px; 
 		flex: 0 0 250px;
-		height: 290px;
+	}
+	
+	.about__img {
+    		width: 250px;
+    		height: 290px;
 	}
 	
 	.about__description {
 		position: relative;
+		padding: 0px 0px 0px 40px; 
 	}
 	.about__description:before {
 		position: absolute;
 		top: 0;
-		left: -20px;
+		left: 20px;
 		content:'';
 		width: 2px;
 		height: 100%;
 		background-color: #666;
-	}
-	
-	.about__img {
-		position: absolute;
-    	width: 100%;
-    	height: 100%;
-    	top: 0;
-    	left: 0;
-    	-o-object-fit: cover;
-    	object-fit: cover;
 	}
 
 	.startup__title {
@@ -146,7 +139,12 @@
 <!-- Блок краткой информации обо мне -->
 
 <div class="about__row">
-	<div class="about__myphoto"><img class="about__img" src="img/myphoto.jpg"/></div>
+	<div class="about__myphoto">
+		<img class="about__img" src="img/myphoto.jpg"/>
+		<h3> Larionov Anton (31 year) </h3>
+		<h4> Frontend Web Developer </h4>
+		<h4> Rostov-on-don </h4>
+	</div>
 	<div class="about__description">
 		<h3> About me </h3>
 		<p> Я Frontend Web Developer. Верстаю кроссбраузерные и мобильно-адаптивные Landing Page и небольшие статические сайты. БЭМ, GULP, SCSS, CSS3\HTML5, Чистый JavaScript, jQuery. Изучаю фреймворк REACT, алгоритмы, объектно-ориентированное программирование. </p>
