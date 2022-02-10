@@ -62,6 +62,7 @@
 	.about__description {
 		position: relative;
 		padding: 0px 0px 0px 40px; 
+		font-size: 14px;
 	}
 	.about__description:before {
 		position: absolute;
@@ -146,7 +147,7 @@
 <div class="about__row">
 	<div class="about__myphoto">
 		<img class="about__img" src="img/myphoto.jpg"/>
-		<h2> Larionov Anton (31 year) </h2>
+		<h3> Larionov Anton (31 year) </h3>
 		<h3> Frontend Web Developer </h3>
 		<h3> Rostov-on-don </h3>
 	</div>
