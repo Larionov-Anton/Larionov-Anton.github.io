@@ -146,9 +146,9 @@
 <div class="about__row">
 	<div class="about__myphoto">
 		<img class="about__img" src="img/myphoto.jpg"/>
-		<h3> Larionov Anton (31 year) </h3>
-		<h4> Frontend Web Developer </h4>
-		<h4> Rostov-on-don </h4>
+		<h2> Larionov Anton (31 year) </h2>
+		<h3> Frontend Web Developer </h3>
+		<h3> Rostov-on-don </h3>
 	</div>
 	<div class="about__description">
 		<h3> About me </h3>
