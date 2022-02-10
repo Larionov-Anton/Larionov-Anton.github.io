@@ -137,9 +137,21 @@
 	<div class="about__myphoto"><img class="about__img" src="img/myphoto.jpg"/></div>
 	<div class="about__description">
 		<h3> About me </h3>
-		<p>Я Junior Frontend Web Developer. Верстаю кроссбраузерные и мобильно-адаптивные лендинги и статические сайты. БЭМ, GULP, SCSS, CSS3\HTML5, Чистый JavaScript, jQuery. Углубленно изучаю фреймворк REACT, алгоритмы, объектно-ориентированное программирование.</p>
-		<p>Выполняю заказы на Freelans биржах. В поиске IT вакансий и команды для совместной веб разработки.</p>
-		<p>Увлекаюсь медитацией, йогой, плаванием, горным трекингом и игрой на музыкальных инструментах.</p>
+		<p> Я Frontend Web Developer. Верстаю кроссбраузерные и мобильно-адаптивные Landing Page и небольшие статические сайты. БЭМ, GULP, SCSS, CSS3\HTML5, Чистый JavaScript, jQuery. Изучаю фреймворк REACT, алгоритмы, объектно-ориентированное программирование. </p>
+		<p> В поиске IT вакансий и команды для совместной веб разработки. Выполняю заказы на Freelans биржах. </p>
+			<ul>
+			<li> С 2012 года работаю в сфере ИТ и в смежных с ней направлениях </li>
+			<li> Администрировал сервера Windows, Linux </li> 
+			<li> Работал с различными терминалами Bash, Cmd, WSL, PowerShell </li>
+			<li> Поддерживал программное обеспечение предприятий </li>
+			<li> Занимался настройкой сетевого оборудования </li>
+			<li> Знаю основы функционирования хостингов и сетевых протоколов HTTP(S), TCP\IP, FTP, SMTP, POP3, IPv4/6 </li>
+			<li> Основы взаимодействие Frontend с Backend / Браузера с Сервером - запросы GET, POST, PUT, Delete </li>
+			<li> Более 2х лет успешно развивал собственный бизнес. Выгодно продал фирму </li>
+			<li> Человек творческий и целеустремленный. Ответственно и системно подхожу к решению любых задач </li> 
+			<li> Понимаю потребности заказчика </li>
+			</ul>
+		<p> Увлекаюсь медитацией, йогой, плаванием, горным трекингом и игрой на музыкальных инструментах. </p>
 	</div>
 </div>
 
@@ -149,12 +161,12 @@
 [![linkedin](https://img.shields.io/badge/Linkedin-0189B4?style=flat&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/larionov-anton05/)
 <a href="https://freelancehunt.com/freelancer/anton_larionov05.html?from=shield&r=xPWv7" target="_blank"><img src="https://freelancehunt.com/shields/display/id/1109187/type/reviews?style=flat&amp;lang=ru" alt="Freelancehunt — простой и честный фриланс"></a>
 
-[![phone](https://img.shields.io/badge/PHONE_+7_(988)_570_72_57-7A8573?style=flat&logo=apple&logoColor=D9D9D9)](tel:+79885707257)
-[![email](https://img.shields.io/badge/EMAIL_larionovanton05@gmail.com-7A8573?style=flat&logo=gmail&logoColor=F44336)](mailto:larionovanton05@gmail.com)
-[![telegramm](https://img.shields.io/badge/TELEGRAMM-7A8573?style=flat&logo=telegram&logoColor=1D97C9)](https://t.me/AntonLarionov1)
-[![instagram](https://img.shields.io/badge/INSTARAM-7A8573?style=flat&logo=instagram&logoColor=B83092)](https://www.instagram.com/seignior.anlarion/)
-[![vk](https://img.shields.io/badge/VKONTACTE-7A8573?style=flat&logo=vk&logoColor=5181B8)](https://vk.com/larionov66)
-[![twitter](https://img.shields.io/badge/TWITTER-7A8573?style=flat&logo=twitter&logoColor=209BF3)](https://twitter.com/larionov_anton1)
+[![phone](https://img.shields.io/badge/PHONE_+7_(988)_570_72_57-0189B4?style=flat&logo=apple&logoColor=D9D9D9)](tel:+79885707257)
+[![email](https://img.shields.io/badge/EMAIL_larionovanton05@gmail.com-0189B4?style=flat&logo=gmail&logoColor=F44336)](mailto:larionovanton05@gmail.com)
+[![telegramm](https://img.shields.io/badge/TELEGRAMM-0189B4?style=flat&logo=telegram&logoColor=1D97C9)](https://t.me/AntonLarionov1)
+[![instagram](https://img.shields.io/badge/INSTARAM-0189B4?style=flat&logo=instagram&logoColor=B83092)](https://www.instagram.com/seignior.anlarion/)
+[![vk](https://img.shields.io/badge/VKONTACTE-0189B4?style=flat&logo=vk&logoColor=5181B8)](https://vk.com/larionov66)
+[![twitter](https://img.shields.io/badge/TWITTER-0189B4?style=flat&logo=twitter&logoColor=209BF3)](https://twitter.com/larionov_anton1)
 
 <!-- Блок стека технологий -->
 
