@@ -48,6 +48,7 @@
 
 	.about__row {
 		display:flex;
+		margin: 0 0 10px 0;
 	}
 
 	.about__myphoto {
@@ -127,19 +128,18 @@
 		.startup__row {
 			flex-direction:column;
 		}
+	
 		.startup__img {
 			flex: 0 0 250px;
 			width: 100%;
 			margin: 0 0 10px 0;
 		}
+	
 		.startup__title {
 			margin: 50px 0 50px 0;
 		}
 	}
 
-	@media (max-width: 424px) {
-
-	}
 </style>
 
 <!-- Блок краткой информации обо мне -->
