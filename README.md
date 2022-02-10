@@ -48,7 +48,6 @@
 
 	.about__row {
 		display:flex;
-		align-items:center;
 	}
 
 	.about__myphoto {
