@@ -52,11 +52,24 @@
 
 	.about__myphoto {
 		position:relative;
-		margin: 0px 20px 20px 0px; 
+		margin: 0px 40px 20px 0px; 
 		flex: 0 0 250px;
-		height: 290px;	
+		height: 290px;
 	}
-
+	
+	.about__description {
+		position: relative;
+	}
+	.about__description:before {
+		position: absolute;
+		top: 0;
+		left: -20px;
+		content:'';
+		width: 2px;
+		height: 100%;
+		background-color: #666;
+	}
+	
 	.about__img {
 		position: absolute;
     	width: 100%;
