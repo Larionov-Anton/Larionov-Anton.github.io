@@ -111,10 +111,18 @@
 			flex-direction:column;
 		}
 		.about__myphoto {
-			margin: 0px 0px 10px 0px; 
-			flex: 0 0 290px;
-			width: 250px;	
+			margin: 0px 0px 20px 0px; 
+			text-align: center;
 		}
+	
+		.about__description {
+			padding: 0px 0px 0px 20px; 
+		}
+		
+		.about__description:before {
+			left: 10px;
+		}
+	
 		.startup__row {
 			flex-direction:column;
 		}
@@ -129,10 +137,7 @@
 	}
 
 	@media (max-width: 424px) {
-		.about__myphoto {
-			flex: 0 0 240px;
-			width: 200px;	
-		}
+
 	}
 </style>
 
