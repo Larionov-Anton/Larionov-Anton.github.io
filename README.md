@@ -85,6 +85,16 @@
 		display:flex;
 	}
 
+	.startup__row:after {
+		content '';
+		position: absolute;
+		bottom: -10px;
+		left: 0px;
+		width: 100%;
+		height: 2px;
+		background-color: #fff;
+	}
+
 	.startup__img {
 		position:relative;
 		flex: 0 0 250px;
@@ -104,6 +114,11 @@
 
 	span {
 		font-style:italic;
+	}
+
+	footer {
+		text-align: center;
+		margin: 0px 0px 20px 0px;
 	}
 
 /* Медиа запросы */
@@ -270,12 +285,14 @@
 			<li>Префиксы под все современные браузеры</li>
 			<li>Full screen блок главного экрана</li>
 			<li>Адаптив по брейк пойнтам под любые устройства </li>
-			
-
 			</ul>
 		</div>
 	</div>
 
-
+<footer>
+	<h2>Larionov Anton (31 year)</h2>
+	<h3>Frontend Web Developer</h3>
+	<h4>Rostov-on-don</h4>
+</footer>
 
 
