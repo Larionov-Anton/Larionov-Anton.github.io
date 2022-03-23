@@ -295,7 +295,7 @@
 	</div>
 
 <footer>
-	<h2>Larionov Anton (31 year)</h2>
+	<h2>Larionov Anton © 2022</h2>
 	<h3>Frontend Web Developer</h3>
 	<h3>Rostov-on-don</h3>
 </footer>
