@@ -38,7 +38,7 @@
     width: 100% !important;
 	}
 
-	#main-content h2:before, #main-content h3:before, #main-content h4:before {
+	#main-content h1:before, #main-content h2:before, #main-content h3:before, #main-content h4:before {
 		padding-right: 0;
     	margin-left: 0;
     	content: none;
@@ -78,28 +78,31 @@
 	.startup__title {
 		text-align:center;
 		font-size: 30px !important;
-		margin: 80px 0 50px 0;
+		margin: 80px 0 50px 0 !important;
 	}
 
 	.startup__row {
+		position: relative;
 		display:flex;
+		flex-direction:column;
+		margin: 0px 0px 20px 0px;
 	}
 
-	.startup__row:after {
-		content '';
+	.startup__row::after {
+		content: '';
 		position: absolute;
-		bottom: -10px;
+		bottom: -5px;
 		left: 0px;
 		width: 100%;
 		height: 2px;
-		background-color: #fff;
+		background-color: #000;
 	}
 
 	.startup__img {
 		position:relative;
 		flex: 0 0 250px;
-		height: 290px;
-		margin: 0 20px 0 0;
+		width: 100%;
+		margin: 0 0 10px 0;
 	}
 
 	.startup__img>img {
@@ -117,8 +120,20 @@
 	}
 
 	footer {
+		position: relative;
 		text-align: center;
-		margin: 0px 0px 20px 0px;
+		padding: 0px 0px 20px !important;
+		margin: 0px !important;
+	}
+
+	footer::after {
+		content: '';
+		position: absolute;
+		bottom: 0px;
+		left: 0px;
+		width: 100%;
+		height: 2px;
+		background-color: #000;
 	}
 
 /* Медиа запросы */
@@ -140,16 +155,6 @@
 			left: 10px;
 		}
 	
-		.startup__row {
-			flex-direction:column;
-		}
-	
-		.startup__img {
-			flex: 0 0 250px;
-			width: 100%;
-			margin: 0 0 10px 0;
-		}
-	
 		.startup__title {
 			margin: 50px 0 50px 0;
 		}
@@ -167,8 +172,8 @@
 		<h3> Rostov-on-don </h3>
 	</div>
 	<div class="about__description">
-		<h3> About me </h3>
-		<p> Верстаю кроссбраузерные и мобильно-адаптивные Landing Page и небольшие статические сайты. БЭМ, GULP, SCSS, CSS3\HTML5, Чистый JavaScript, jQuery. Изучаю фреймворк REACT, алгоритмы, объектно-ориентированное программирование. </p>
+		<h2> About me </h2>
+		<p> Верстаю кроссбраузерные и адаптивные Landing Page (БЭМ, GULP, SCSS, CSS3\HTML5, Чистый JavaScript, jQuery). Изучаю фреймворк REACT, алгоритмы, объектно-ориентированное программирование. </p>
 		<p> В поиске IT вакансий и команды для совместной веб разработки. Выполняю заказы на Freelance биржах. </p>
 			<ul>
 			<li> С 2012 года работаю в сфере ИТ и в смежных с ней направлениях </li>
@@ -188,7 +193,7 @@
 
 <!-- Блок контактов -->
 
-<h3>Follow me:</h3>
+<h2>Follow me:</h2>
 [![linkedin](https://img.shields.io/badge/Linkedin-0189B4?style=flat&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/larionov-anton05/)
 
 
@@ -201,7 +206,7 @@
 
 <!-- Блок стека технологий -->
 
-<h3>Tech Stack:</h3>
+<h2>Tech Stack:</h2>
 
 ![html](https://img.shields.io/badge/HTML5-7A8573?style=flat&logo=html5&logoColor=E34F26)
 ![css](https://img.shields.io/badge/CSS3-7A8573?style=flat&logo=css3&logoColor=117B11)
@@ -209,7 +214,7 @@
 ![js](https://img.shields.io/badge/JAVASCRIPT-7A8573?style=flat&logo=javascript&logoColor=F7E01D)
 ![jq](https://img.shields.io/badge/JQUERY-7A8573?style=flat&logo=jquery&logoColor=193657)
 
-<h3>Tools:</h3>
+<h2>Tools:</h2>
 
 ![git](https://img.shields.io/badge/GIT-7A8573?style=flat&logo=git&logoColor=DF4C37)
 ![github](https://img.shields.io/badge/GITHUB-7A8573?style=flat&logo=github&logoColor=000000)
@@ -223,8 +228,8 @@
 
 <!-- Блок проекта - Landig page startup -->
 
-<h2 class="startup__title">Portfolio</h2>
-<h3><a href="https://larionov-anton.github.io/startup/">Startup</a></h3>
+<h1 class="startup__title">Portfolio</h1>
+<h2><a href="https://larionov-anton.github.io/startup/">Startup</a></h2>
 
 [![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/startup)
 
@@ -257,23 +262,22 @@
 
 <!-- Блок проекта - Тестовое задание по верстке Elon Musc -->
 
-<h2 class="startup__title">Portfolio</h2>
-<h3><a href="https://larionov-anton.github.io/Elon_Musc/">Elon Musc</a></h3>
+<h2><a href="https://larionov-anton.github.io/Elon_Musc/">Elon Musc</a></h2>
 
-[![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://larionov-anton.github.io/Elon_Musc/)
+[![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/Elon_Musc)
 
-![html](https://img.shields.io/badge/HTML5-701E16?style=plastic&logo=html5&logoColor=E34F26)
-![css](https://img.shields.io/badge/CSS3-701E16?style=plastic&logo=css3&logoColor=117B11)
-![scss](https://img.shields.io/badge/SCSS-701E16?style=plastic&logo=sass&logoColor=D05385)
-![js](https://img.shields.io/badge/JAVASCRIPT-701E16?style=plastic&logo=javascript&logoColor=F7E01D)
-![jq](https://img.shields.io/badge/JQUERY-701E16?style=plastic&logo=jquery&logoColor=193657)
-![git](https://img.shields.io/badge/GIT-701E16?style=plastic&logo=git&logoColor=DF4C37)
-![vscode](https://img.shields.io/badge/VSCODE-701E16?style=plastic&logo=Visualstudio&logoColor=0278CB)
-![prepros](https://img.shields.io/badge/PREPROS-701E16?style=plastic&logo=webpack&logoColor=20C4E1)
-![marsy](https://img.shields.io/badge/MARSY-701E16?style=plastic&logo=adobephotoshop&logoColor=FCEC7D)
+![html](https://img.shields.io/badge/HTML5-0c161e?style=plastic&logo=html5&logoColor=E34F26)
+![css](https://img.shields.io/badge/CSS3-0c161e?style=plastic&logo=css3&logoColor=117B11)
+![scss](https://img.shields.io/badge/SCSS-0c161e?style=plastic&logo=sass&logoColor=D05385)
+![js](https://img.shields.io/badge/JAVASCRIPT-0c161e?style=plastic&logo=javascript&logoColor=F7E01D)
+![jq](https://img.shields.io/badge/JQUERY-0c161e?style=plastic&logo=jquery&logoColor=193657)
+![git](https://img.shields.io/badge/GIT-0c161e?style=plastic&logo=git&logoColor=DF4C37)
+![vscode](https://img.shields.io/badge/VSCODE-0c161e?style=plastic&logo=Visualstudio&logoColor=0278CB)
+![prepros](https://img.shields.io/badge/PREPROS-0c161e?style=plastic&logo=webpack&logoColor=20C4E1)
+![marsy](https://img.shields.io/badge/MARSY-0c161e?style=plastic&logo=adobephotoshop&logoColor=FCEC7D)
 
 <div class="startup__row">
-	<a href="https://larionov-anton.github.io/startup/" class="startup__img"><img src="img/Elon_Musc.jpg"/></a>
+	<a href="https://larionov-anton.github.io/Elon_Musc/" class="startup__img"><img src="img/Elon_Musc.jpg"/></a>
 	<div class="startup__description">
 		<h3>About project</h3>
 		<p><span>Тестовое задание по верстке</span></p>
@@ -282,6 +286,7 @@
 			<li>Градиенты</li>
 			<li>Различное позиционирование элементов</li>
 			<li>Адаптивное выпадающее меню</li>
+			<li>Использование относительных единиц EM</li>
 			<li>Префиксы под все современные браузеры</li>
 			<li>Full screen блок главного экрана</li>
 			<li>Адаптив по брейк пойнтам под любые устройства </li>
@@ -292,7 +297,7 @@
 <footer>
 	<h2>Larionov Anton (31 year)</h2>
 	<h3>Frontend Web Developer</h3>
-	<h4>Rostov-on-don</h4>
+	<h3>Rostov-on-don</h3>
 </footer>
 
 
