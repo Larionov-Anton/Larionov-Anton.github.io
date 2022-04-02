@@ -260,6 +260,44 @@
 		</div>
 	</div>
 
+
+<!-- Блок проекта - Тестовое задание по верстке Rocket_Business -->
+
+<h2><a href="https://larionov-anton.github.io/test_Rocket_Business/">Multidisciplinary clinic</a></h2>
+
+[![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/test_Rocket_Business)
+
+![html](https://img.shields.io/badge/HTML5-1FA181?style=plastic&logo=html5&logoColor=E34F26)
+![css](https://img.shields.io/badge/CSS3-1FA181?style=plastic&logo=css3&logoColor=117B11)
+![scss](https://img.shields.io/badge/SCSS-1FA181?style=plastic&logo=sass&logoColor=D05385)
+![js](https://img.shields.io/badge/JAVASCRIPT-1FA181?style=plastic&logo=javascript&logoColor=F7E01D)
+![jq](https://img.shields.io/badge/JQUERY-1FA181?style=plastic&logo=jquery&logoColor=193657)
+![git](https://img.shields.io/badge/GIT-1FA181?style=plastic&logo=git&logoColor=DF4C37)
+![vscode](https://img.shields.io/badge/VSCODE-1FA181?style=plastic&logo=Visualstudio&logoColor=0278CB)
+![prepros](https://img.shields.io/badge/PREPROS-1FA181?style=plastic&logo=webpack&logoColor=20C4E1)
+![marsy](https://img.shields.io/badge/MARSY-1FA181?style=plastic&logo=adobephotoshop&logoColor=FCEC7D)
+
+<div class="startup__row">
+	<a href="https://larionov-anton.github.io/test_Rocket_Business/" class="startup__img"><img src="img/Rocket.jpg"/></a>
+	<div class="startup__description">
+		<h3>About project</h3>
+		<p><span>Тестовое задание по верстке</span></p>
+		<ul>
+			<li>Popup c формой на JavaScript</li>
+			<li>Форма с валидацией маской ввода на JavaScript</li>
+			<li>Отправка формы на почту (PHPmailer)</li>
+			<li>Слайдер с счетчиком слайдов на JQ (SlickSlider)</li>
+			<li>Адаптивное выпадающее мобильное меню на JavaScript</li>
+			<li>Flexbox</li>
+			<li>Использование относительных единиц EM</li>
+			<li>Префиксы под все современные браузеры</li>
+			<li>Адаптив по брейк пойнтам под любые устройства </li>
+			</ul>
+		</div>
+	</div>
+
+
+
 <!-- Блок проекта - Тестовое задание по верстке Elon Musc -->
 
 <h2><a href="https://larionov-anton.github.io/Elon_Musc/">Elon Musc</a></h2>
@@ -293,6 +331,8 @@
 			</ul>
 		</div>
 	</div>
+
+<!-- Подвал сайта -->
 
 <footer>
 	<h2>Larionov Anton © 2022</h2>
