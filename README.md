@@ -219,6 +219,7 @@
 ![github](https://img.shields.io/badge/GITHUB-7A8573?style=flat&logo=github&logoColor=000000)
 ![vscode](https://img.shields.io/badge/VSCODE-7A8573?style=flat&logo=Visualstudio&logoColor=0278CB)
 ![gulp](https://img.shields.io/badge/GULP-7A8573?style=flat&logo=gulp&logoColor=E84C51)
+![webpack](https://img.shields.io/badge/WEBPACK-7A8573?style=flat&logo=webpack&logoColor=E84C51)
 ![photoshop](https://img.shields.io/badge/PHOTOSHOP-7A8573?style=flat&logo=adobephotoshop&logoColor=001E36)
 ![avocode](https://img.shields.io/badge/AVOCODE-7A8573?style=flat&logo=adobephotoshop&logoColor=00BD87)
 ![prepros](https://img.shields.io/badge/PREPROS-7A8573?style=flat&logo=webpack&logoColor=20C4E1)
