@@ -173,18 +173,10 @@
 	</div>
 	<div class="about__description">
 		<h2> About me </h2>
-		<p> Верстаю кроссбраузерные и адаптивные Landing Page (БЭМ, GULP, SCSS, CSS3\HTML5, Чистый JavaScript, jQuery). Изучаю фреймворк REACT, алгоритмы, объектно-ориентированное программирование. </p>
-		<p> В поиске IT вакансий и команды для совместной веб разработки. Выполняю заказы на Freelance биржах. </p>
+		<p> Пишу проекты на стеке React \ Typescript \ Redux Toolkit \ Tailwind (CSS, SCSS) </p>
+		<p> В поиске IT вакансий и команды для совместной веб разработки. </p>
 			<ul>
-			<li> С 2012 года работаю в сфере ИТ и в смежных с ней направлениях </li>
-			<li> Администрировал сервера Windows, Linux </li> 
-			<li> Работал с различными терминалами Bash, Cmd, WSL, PowerShell </li>
-			<li> Поддерживал программное обеспечение предприятий </li>
-			<li> Занимался настройкой сетевого оборудования </li>
-			<li> Знаю сетевыe протоколы HTTP(S), TCP\IP, FTP, SMTP, POP3, IPv4/6 </li>
-			<li> Более 2х лет успешно развивал собственный бизнес. Выгодно продал фирму </li>
-			<li> Человек творческий и целеустремленный. Ответственно и системно подхожу к решению любых задач </li> 
-			<li> Понимаю потребности заказчика </li>
+			<li> Перечислить что знаю и умею в программировании, подтвержденное проектами ниже </li> 
 			</ul>
 		<p> Увлекаюсь йогой, плаванием, горным трекингом и игрой на музыкальных инструментах. </p>
 	</div>
@@ -208,21 +200,25 @@
 <h2>Tech Stack:</h2>
 
 ![html](https://img.shields.io/badge/HTML5-7A8573?style=flat&logo=html5&logoColor=E34F26)
+![pug](https://img.shields.io/badge/PUG-7A8573?style=flat&logo=pug&logoColor=A86454)
 ![css](https://img.shields.io/badge/CSS3-7A8573?style=flat&logo=css3&logoColor=117B11)
 ![scss](https://img.shields.io/badge/SCSS-7A8573?style=flat&logo=sass&logoColor=D05385)
-![js](https://img.shields.io/badge/JAVASCRIPT-7A8573?style=flat&logo=javascript&logoColor=F7E01D)
-![jq](https://img.shields.io/badge/JQUERY-7A8573?style=flat&logo=jquery&logoColor=193657)
+![JS(OOP/MVC)](https://img.shields.io/badge/JS_(OOP/MVC)-7A8573?style=flat&logo=javascript&logoColor=F7E01D)
+![TypeScript](https://img.shields.io/badge/TYPE_SCRIPT-7A8573?style=flat&logo=typescript&logoColor=3179C7)
 
 <h2>Tools:</h2>
 
+![React](https://img.shields.io/badge/REACT-7A8573?style=flat&logo=react&logoColor=5BDFF9)
+![Redux\Toolkit](https://img.shields.io/badge/REDUX_TOOLKIT-7A8573?style=flat&logo=redux&logoColor=764ABC)
+![Rtk_query](https://img.shields.io/badge/RTK_QUERY-7A8573?style=flat&logo=redux&logoColor=764ABC)
+![TailwindCss](https://img.shields.io/badge/TAILWIND_CSS-7A8573?style=flat&logo=tailwindcss&logoColor=38BDF8)
+![nodejs](https://img.shields.io/badge/NODE.JS-7A8573?style=flat&logo=node.js&logoColor=7BB065)
+![webpack](https://img.shields.io/badge/WEBPACK-7A8573?style=flat&logo=webpack&logoColor=1B77C3)
+![gulp](https://img.shields.io/badge/GULP-7A8573?style=flat&logo=gulp&logoColor=E84C51)
 ![git](https://img.shields.io/badge/GIT-7A8573?style=flat&logo=git&logoColor=DF4C37)
 ![github](https://img.shields.io/badge/GITHUB-7A8573?style=flat&logo=github&logoColor=000000)
 ![vscode](https://img.shields.io/badge/VSCODE-7A8573?style=flat&logo=Visualstudio&logoColor=0278CB)
-![gulp](https://img.shields.io/badge/GULP-7A8573?style=flat&logo=gulp&logoColor=E84C51)
-![webpack](https://img.shields.io/badge/WEBPACK-7A8573?style=flat&logo=webpack&logoColor=E84C51)
-![photoshop](https://img.shields.io/badge/PHOTOSHOP-7A8573?style=flat&logo=adobephotoshop&logoColor=001E36)
 ![avocode](https://img.shields.io/badge/AVOCODE-7A8573?style=flat&logo=adobephotoshop&logoColor=00BD87)
-![prepros](https://img.shields.io/badge/PREPROS-7A8573?style=flat&logo=webpack&logoColor=20C4E1)
 
 
 
