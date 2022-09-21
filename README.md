@@ -210,7 +210,6 @@
 
 ![React](https://img.shields.io/badge/REACT-7A8573?style=flat&logo=react&logoColor=5BDFF9)
 ![Redux\Toolkit](https://img.shields.io/badge/REDUX_TOOLKIT-7A8573?style=flat&logo=redux&logoColor=764ABC)
-![Rtk_query](https://img.shields.io/badge/RTK_QUERY-7A8573?style=flat&logo=redux&logoColor=764ABC)
 ![TailwindCss](https://img.shields.io/badge/TAILWIND_CSS-7A8573?style=flat&logo=tailwindcss&logoColor=38BDF8)
 ![nodejs](https://img.shields.io/badge/NODE.JS-7A8573?style=flat&logo=node.js&logoColor=7BB065)
 ![webpack](https://img.shields.io/badge/WEBPACK-7A8573?style=flat&logo=webpack&logoColor=1B77C3)
