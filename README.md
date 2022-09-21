@@ -190,9 +190,9 @@
 
 [![phone](https://img.shields.io/badge/PHONE_+7_(988)_570_72_57-0189B4?style=flat&logo=apple&logoColor=D9D9D9)](tel:+79885707257)
 [![email](https://img.shields.io/badge/EMAIL_larionovanton05@gmail.com-0189B4?style=flat&logo=gmail&logoColor=F44336)](mailto:larionovanton05@gmail.com)
-[![telegramm](https://img.shields.io/badge/TELEGRAMM-0189B4?style=flat&logo=telegram&logoColor=1D97C9)](https://t.me/AntonLarionov1)
+[![telegram](https://img.shields.io/badge/TELEGRAM-0189B4?style=flat&logo=telegram&logoColor=1D97C9)](https://t.me/AntonLarionov1)
 [![instagram](https://img.shields.io/badge/INSTARAM-0189B4?style=flat&logo=instagram&logoColor=B83092)](https://www.instagram.com/seignior.anlarion/)
-[![vk](https://img.shields.io/badge/VKONTACTE-0189B4?style=flat&logo=vk&logoColor=5181B8)](https://vk.com/larionov66)
+[![vk](https://img.shields.io/badge/VKONTAKTE-0189B4?style=flat&logo=vk&logoColor=5181B8)](https://vk.com/larionov66)
 [![twitter](https://img.shields.io/badge/TWITTER-0189B4?style=flat&logo=twitter&logoColor=209BF3)](https://twitter.com/larionov_anton1)
 
 <!-- Блок стека технологий -->
