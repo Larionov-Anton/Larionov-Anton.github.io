@@ -224,10 +224,36 @@
 ![prepros](https://img.shields.io/badge/PREPROS-7A8573?style=flat&logo=webpack&logoColor=20C4E1)
 
 
+<!-- Блок проекта - Todo JS -->
+
+<h1 class="startup__title">Portfolio</h1>
+<h2><a href="https://larionov-anton.github.io/todo_js/public/">Todo JS</a></h2>
+
+[![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/todo_js)
+
+![html](https://img.shields.io/badge/HTML5-701E16?style=plastic&logo=html5&logoColor=E34F26)
+![css](https://img.shields.io/badge/CSS3-701E16?style=plastic&logo=css3&logoColor=117B11)
+![js](https://img.shields.io/badge/JAVASCRIPT-701E16?style=plastic&logo=javascript&logoColor=F7E01D)
+![OOP/MVC](https://img.shields.io/badge/OOP_MVC-701E16?style=plastic&logo=javascript&logoColor=F7E01D)
+
+
+<div class="startup__row">
+	<a href="https://larionov-anton.github.io/todo_js/public/" class="startup__img"><img src="img/Todo_JS.jpg"/></a>
+	<div class="startup__description">
+		<h3>About project</h3>
+		<p><span>Todo list on JavaScript (OOP/MVC)</span></p>
+		<ul>
+			<li>Структура проекта составлена в соответствии с паттерном MVC в объектно-ориентированном стиле</li>
+			<li>Вся логика написана на ванильном JavaScript</li>
+			<li>Приложение умеет: добавлять, редактировать, отмечать как выбранные и удалять задачи</li>
+			<li>Данные приложения сохраняются в local storage</li>
+			</ul>
+		</div>
+	</div>
+
 
 <!-- Блок проекта - Landig page startup -->
 
-<h1 class="startup__title">Portfolio</h1>
 <h2><a href="https://larionov-anton.github.io/startup/">Startup</a></h2>
 
 [![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/startup)
