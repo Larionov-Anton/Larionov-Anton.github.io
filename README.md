@@ -173,18 +173,10 @@
 	</div>
 	<div class="about__description">
 		<h2> About me </h2>
-		<p> Верстаю кроссбраузерные и адаптивные Landing Page (БЭМ, GULP, SCSS, CSS3\HTML5, Чистый JavaScript, jQuery). Изучаю фреймворк REACT, алгоритмы, объектно-ориентированное программирование. </p>
-		<p> В поиске IT вакансий и команды для совместной веб разработки. Выполняю заказы на Freelance биржах. </p>
+		<p> Пишу проекты на стеке React \ Typescript \ Redux Toolkit \ Tailwind (CSS, SCSS) </p>
+		<p> В поиске IT вакансий и команды для совместной веб разработки. </p>
 			<ul>
-			<li> С 2012 года работаю в сфере ИТ и в смежных с ней направлениях </li>
-			<li> Администрировал сервера Windows, Linux </li> 
-			<li> Работал с различными терминалами Bash, Cmd, WSL, PowerShell </li>
-			<li> Поддерживал программное обеспечение предприятий </li>
-			<li> Занимался настройкой сетевого оборудования </li>
-			<li> Знаю сетевыe протоколы HTTP(S), TCP\IP, FTP, SMTP, POP3, IPv4/6 </li>
-			<li> Более 2х лет успешно развивал собственный бизнес. Выгодно продал фирму </li>
-			<li> Человек творческий и целеустремленный. Ответственно и системно подхожу к решению любых задач </li> 
-			<li> Понимаю потребности заказчика </li>
+			<li> Перечислить что знаю и умею в программировании, подтвержденное проектами ниже </li> 
 			</ul>
 		<p> Увлекаюсь йогой, плаванием, горным трекингом и игрой на музыкальных инструментах. </p>
 	</div>
@@ -198,9 +190,9 @@
 
 [![phone](https://img.shields.io/badge/PHONE_+7_(988)_570_72_57-0189B4?style=flat&logo=apple&logoColor=D9D9D9)](tel:+79885707257)
 [![email](https://img.shields.io/badge/EMAIL_larionovanton05@gmail.com-0189B4?style=flat&logo=gmail&logoColor=F44336)](mailto:larionovanton05@gmail.com)
-[![telegramm](https://img.shields.io/badge/TELEGRAMM-0189B4?style=flat&logo=telegram&logoColor=1D97C9)](https://t.me/AntonLarionov1)
+[![telegram](https://img.shields.io/badge/TELEGRAM-0189B4?style=flat&logo=telegram&logoColor=1D97C9)](https://t.me/AntonLarionov1)
 [![instagram](https://img.shields.io/badge/INSTARAM-0189B4?style=flat&logo=instagram&logoColor=B83092)](https://www.instagram.com/seignior.anlarion/)
-[![vk](https://img.shields.io/badge/VKONTACTE-0189B4?style=flat&logo=vk&logoColor=5181B8)](https://vk.com/larionov66)
+[![vk](https://img.shields.io/badge/VKONTAKTE-0189B4?style=flat&logo=vk&logoColor=5181B8)](https://vk.com/larionov66)
 [![twitter](https://img.shields.io/badge/TWITTER-0189B4?style=flat&logo=twitter&logoColor=209BF3)](https://twitter.com/larionov_anton1)
 
 <!-- Блок стека технологий -->
@@ -208,20 +200,24 @@
 <h2>Tech Stack:</h2>
 
 ![html](https://img.shields.io/badge/HTML5-7A8573?style=flat&logo=html5&logoColor=E34F26)
+![pug](https://img.shields.io/badge/PUG-7A8573?style=flat&logo=pug&logoColor=A86454)
 ![css](https://img.shields.io/badge/CSS3-7A8573?style=flat&logo=css3&logoColor=117B11)
 ![scss](https://img.shields.io/badge/SCSS-7A8573?style=flat&logo=sass&logoColor=D05385)
-![js](https://img.shields.io/badge/JAVASCRIPT-7A8573?style=flat&logo=javascript&logoColor=F7E01D)
-![jq](https://img.shields.io/badge/JQUERY-7A8573?style=flat&logo=jquery&logoColor=193657)
+![JS(OOP/MVC)](https://img.shields.io/badge/JS_(OOP/MVC)-7A8573?style=flat&logo=javascript&logoColor=F7E01D)
+![TypeScript](https://img.shields.io/badge/TYPE_SCRIPT-7A8573?style=flat&logo=typescript&logoColor=3179C7)
 
 <h2>Tools:</h2>
 
+![React](https://img.shields.io/badge/REACT-7A8573?style=flat&logo=react&logoColor=5BDFF9)
+![Redux\Toolkit](https://img.shields.io/badge/REDUX_TOOLKIT-7A8573?style=flat&logo=redux&logoColor=764ABC)
+![TailwindCss](https://img.shields.io/badge/TAILWIND_CSS-7A8573?style=flat&logo=tailwindcss&logoColor=38BDF8)
+![nodejs](https://img.shields.io/badge/NODE.JS-7A8573?style=flat&logo=node.js&logoColor=7BB065)
+![webpack](https://img.shields.io/badge/WEBPACK-7A8573?style=flat&logo=webpack&logoColor=1B77C3)
+![gulp](https://img.shields.io/badge/GULP-7A8573?style=flat&logo=gulp&logoColor=E84C51)
 ![git](https://img.shields.io/badge/GIT-7A8573?style=flat&logo=git&logoColor=DF4C37)
 ![github](https://img.shields.io/badge/GITHUB-7A8573?style=flat&logo=github&logoColor=000000)
 ![vscode](https://img.shields.io/badge/VSCODE-7A8573?style=flat&logo=Visualstudio&logoColor=0278CB)
-![gulp](https://img.shields.io/badge/GULP-7A8573?style=flat&logo=gulp&logoColor=E84C51)
-![photoshop](https://img.shields.io/badge/PHOTOSHOP-7A8573?style=flat&logo=adobephotoshop&logoColor=001E36)
 ![avocode](https://img.shields.io/badge/AVOCODE-7A8573?style=flat&logo=adobephotoshop&logoColor=00BD87)
-![prepros](https://img.shields.io/badge/PREPROS-7A8573?style=flat&logo=webpack&logoColor=20C4E1)
 
 
 <!-- Блок проекта - Todo JS -->
