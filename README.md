@@ -234,7 +234,7 @@
 
 
 <div class="startup__row">
-	<a href="https://larionov-anton.github.io/todo_js/public/" class="startup__img"><img src="img/Todo_JS.jpg"/></a>
+	<a href="https://larionov-anton.github.io/todo_js/public/" class="startup__img"><img src="img/Todo_JS.png"/></a>
 	<div class="startup__description">
 		<h3>About project</h3>
 		<p><span>Todo list on JavaScript (OOP/MVC)</span></p>
