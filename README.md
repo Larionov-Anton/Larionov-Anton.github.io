@@ -299,7 +299,7 @@
 ![marsy](https://img.shields.io/badge/MARSY-1FA181?style=plastic&logo=adobephotoshop&logoColor=FCEC7D)
 
 <div class="startup__row">
-	<a href="https://larionov-anton.github.io/test_Rocket_Business/" class="startup__img"><img src="img/rocket.jpg"/></a>
+	<a href="https://larionov-anton.github.io/test_Rocket_Business/" class="startup__img"><img src="img/rocket.png"/></a>
 	<div class="startup__description">
 		<h3>About project</h3>
 		<p><span>Тестовое задание по верстке</span></p>
