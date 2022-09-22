@@ -227,10 +227,10 @@
 
 [![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/todo_js)
 
-![html](https://img.shields.io/badge/HTML5-701E16?style=plastic&logo=html5&logoColor=E34F26)
-![css](https://img.shields.io/badge/CSS3-701E16?style=plastic&logo=css3&logoColor=117B11)
-![js](https://img.shields.io/badge/JAVASCRIPT-701E16?style=plastic&logo=javascript&logoColor=F7E01D)
-![OOP/MVC](https://img.shields.io/badge/OOP_MVC-701E16?style=plastic&logo=javascript&logoColor=F7E01D)
+![html](https://img.shields.io/badge/HTML5-BE61FB?style=plastic&logo=html5&logoColor=E34F26)
+![css](https://img.shields.io/badge/CSS3-BE61FB?style=plastic&logo=css3&logoColor=117B11)
+![js](https://img.shields.io/badge/JAVASCRIPT-BE61FB?style=plastic&logo=javascript&logoColor=F7E01D)
+![OOP/MVC](https://img.shields.io/badge/OOP_MVC-BE61FB?style=plastic&logo=javascript&logoColor=F7E01D)
 
 
 <div class="startup__row">
@@ -299,7 +299,7 @@
 ![marsy](https://img.shields.io/badge/MARSY-1FA181?style=plastic&logo=adobephotoshop&logoColor=FCEC7D)
 
 <div class="startup__row">
-	<a href="https://larionov-anton.github.io/test_Rocket_Business/" class="startup__img"><img src="img/rocket.png"/></a>
+	<a href="https://larionov-anton.github.io/test_Rocket_Business/" class="startup__img"><img src="img/Rocket.png"/></a>
 	<div class="startup__description">
 		<h3>About project</h3>
 		<p><span>Тестовое задание по верстке</span></p>
