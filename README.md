@@ -281,7 +281,7 @@
 
 <!-- Блок проекта - Todo JS -->
 
-<h2><a href="https://larionov-anton.github.io/todo_js/public/">Todo JS</a></h2>
+<h2><a href="https://larionov-anton.github.io/todo_js/public/">Todo JS (OOP\MVC)</a></h2>
 
 [![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/todo_js)
 
