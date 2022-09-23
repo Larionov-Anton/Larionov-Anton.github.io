@@ -220,6 +220,36 @@
 ![avocode](https://img.shields.io/badge/AVOCODE-7A8573?style=flat&logo=adobephotoshop&logoColor=00BD87)
 
 
+<!-- Блок проекта - React application -->
+
+<h1 class="startup__title">Portfolio</h1>
+<h2><a href="https://react-course-bay.vercel.app/">React application on TypeScript</a></h2>
+
+[![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/react_course)
+
+![html](https://img.shields.io/badge/HTML5-313E4F?style=plastic&logo=html5&logoColor=E34F26)
+![css](https://img.shields.io/badge/CSS3-313E4F?style=plastic&logo=css3&logoColor=117B11)
+![ts](https://img.shields.io/badge/TYPESCRIPT-313E4F?style=plastic&logo=typescript&logoColor=3179C7)
+![react](https://img.shields.io/badge/REACT-313E4F?style=plastic&logo=react&logoColor=67D1FF)
+
+
+
+
+<div class="startup__row">
+	<a href="https://react-course-bay.vercel.app/" class="startup__img"><img src="img/ReactAppTypescript.png"/></a>
+	<div class="startup__description">
+		<h3>About project</h3>
+		<p><span>React application on TypeScript</span></p>
+		<ul>
+			<li>Асинхронные запросы при помощи Axios для получения списка товаров на публичный api 'fakestoreapi'</li>
+			<li>Асинхронные запросы реализованыы при помощи кастомного хука</li>
+			<li>Данные приложения распределятся React Context и строго типизированны TypeScript </li>
+			<li>Полученные товары рендерятся внутри компонентов React</li>
+			<li>Реализованна кнопка "Показать Детали" через хук useState</li>
+			</ul>
+		</div>
+	</div>
+
 <!-- Блок проекта - Calculator OOP\MVC -->
 
 <h1 class="startup__title">Portfolio</h1>
