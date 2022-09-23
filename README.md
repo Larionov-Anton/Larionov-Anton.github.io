@@ -220,9 +220,37 @@
 ![avocode](https://img.shields.io/badge/AVOCODE-7A8573?style=flat&logo=adobephotoshop&logoColor=00BD87)
 
 
-<!-- Блок проекта - Todo JS -->
+<!-- Блок проекта - Calculator OOP\MVC -->
 
 <h1 class="startup__title">Portfolio</h1>
+<h2><a href="https://larionov-anton.github.io/calculator_oop/dist/">Calcuator (OOP/MVC)</a></h2>
+
+[![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/calculator_oop)
+
+![html](https://img.shields.io/badge/HTML5-FF9501?style=plastic&logo=html5&logoColor=E34F26)
+![css](https://img.shields.io/badge/CSS3-FF9501?style=plastic&logo=css3&logoColor=117B11)
+![js](https://img.shields.io/badge/JAVASCRIPT-FF9501?style=plastic&logo=javascript&logoColor=F7E01D)
+![OOP/MVC](https://img.shields.io/badge/OOP_MVC-FF9501?style=plastic&logo=javascript&logoColor=F7E01D)
+![Webpack](https://img.shields.io/badge/WEBPACK-FF9501?style=plastic&logo=webpack&logoColor=F7E01D)
+
+
+<div class="startup__row">
+	<a href="https://larionov-anton.github.io/calculator_oop/dist/" class="startup__img"><img src="img/Calculator.png"/></a>
+	<div class="startup__description">
+		<h3>About project</h3>
+		<p><span>Calculator on JavaScript (OOP/MVC)</span></p>
+		<ul>
+			<li>Классический калькулятор c iphone, выполняющий базовые математические операции</li>
+			<li>Проект собирается самописной сборкой webpack</li>
+			<li>Структура проекта составлена в соответствии с паттерном MVC в объектно-ориентированном стиле</li>
+			<li>Вся логика написана на ванильном JavaScript</li>
+			<li>Данные приложения сохраняются в local storage</li>
+			</ul>
+		</div>
+	</div>
+
+<!-- Блок проекта - Todo JS -->
+
 <h2><a href="https://larionov-anton.github.io/todo_js/public/">Todo JS</a></h2>
 
 [![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/todo_js)
