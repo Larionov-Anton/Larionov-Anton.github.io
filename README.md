@@ -220,9 +220,39 @@
 ![avocode](https://img.shields.io/badge/AVOCODE-7A8573?style=flat&logo=adobephotoshop&logoColor=00BD87)
 
 
-<!-- Блок проекта - React application -->
+<!-- Блок проекта - React, Redux, JavaScript  -->
 
 <h1 class="startup__title">Portfolio</h1>
+<h2><a href="https://redux-course.vercel.app/">React, Redux, Javascript</a></h2>
+
+[![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/redux_course)
+
+![html](https://img.shields.io/badge/HTML5-266560?style=plastic&logo=html5&logoColor=E34F26)
+![css](https://img.shields.io/badge/CSS3-266560?style=plastic&logo=css3&logoColor=117B11)
+![js](https://img.shields.io/badge/JAVASCRIPT-266560?style=plastic&logo=javascript&logoColor=F7E01D)
+![react](https://img.shields.io/badge/REACT-266560?style=plastic&logo=react&logoColor=67D1FF)
+![redux](https://img.shields.io/badge/REDUX-266560?style=plastic&logo=redux&logoColor=764ABC)
+
+
+
+
+<div class="startup__row">
+	<a href="https://redux-course.vercel.app/" class="startup__img"><img src="img/ReactRedux.png"/></a>
+	<div class="startup__description">
+		<h3>About project</h3>
+		<p><span>React \ Redux application on JavaScript</span></p>
+		<ul>
+			<li>Асинхронные запросы при помощи redux-thunk для получения списка комментариев на api 'jsonplaceholder'</li>
+			<li>Обработка ошибок при запросах, индикатор процеса загрузки</li>
+			<li>Данные распределены через Redux: createStore, Actions, Action Creators, Reducers, Immutable Data, hooks 'useSelector', 'useDispatch', 'useState</li>
+			<li>Полученные комментарии рендерятся внутри функциональных компонентов React</li>
+			<li>Реализованна функции добавления\редактирования\удаления комментариев. Добавления лайков и дизлайков </li>
+			</ul>
+		</div>
+	</div>
+
+<!-- Блок проекта - React application -->
+
 <h2><a href="https://react-course-bay.vercel.app/">React application on TypeScript</a></h2>
 
 [![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/react_course)
@@ -242,9 +272,9 @@
 		<p><span>React application on TypeScript</span></p>
 		<ul>
 			<li>Асинхронные запросы при помощи Axios для получения списка товаров на 'fakestoreapi'</li>
-			<li>Асинхронные запросы реализованыы при помощи кастомного хука</li>
-			<li>Данные приложения распределятся React Context и строго типизированны TypeScript </li>
-			<li>Полученные товары рендерятся внутри компонентов React</li>
+			<li>Асинхронные запросы реализованны при помощи кастомного хука</li>
+			<li>Полученные товары рендерятся внутри функциональных компонентов React: components, state, hooks, props, jsx, event handlers </li>
+			<li>Данные приложения распределятся React Context и строго типизированны TypeScript</li>
 			<li>Реализованна кнопка "Показать Детали" через хук useState</li>
 			<li>Реализованна возможность добавить собственный товар передав заголовок через асинхронный запрос на 'fakestoreapi'</li>
 			</ul>
