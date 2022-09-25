@@ -220,9 +220,39 @@
 ![avocode](https://img.shields.io/badge/AVOCODE-7A8573?style=flat&logo=adobephotoshop&logoColor=00BD87)
 
 
-<!-- Блок проекта - React, Redux, JavaScript  -->
+<!-- Блок проекта - React, Redux Toolkit, Typescript  -->
 
 <h1 class="startup__title">Portfolio</h1>
+<h2><a href="https://react-advanced-taupe.vercel.app/">React, Redux Toolkit, Typescript</a></h2>
+
+[![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/react_advanced)
+
+![html](https://img.shields.io/badge/HTML5-FACC15?style=plastic&logo=html5&logoColor=E34F26)
+![css](https://img.shields.io/badge/CSS3-FACC15?style=plastic&logo=css3&logoColor=117B11)
+![ts](https://img.shields.io/badge/TYPESCRIPT-FACC15?style=plastic&logo=typescript&logoColor=3179C7)
+![react](https://img.shields.io/badge/REACT-FACC15?style=plastic&logo=react&logoColor=67D1FF)
+![redux](https://img.shields.io/badge/REDUX_TOOLKIT-FACC15?style=plastic&logo=redux&logoColor=764ABC)
+![tailwind](https://img.shields.io/badge/TAILWIND_CSS-FACC15?style=plastic&logo=tailwindcss&logoColor=764ABC)
+
+
+
+<div class="startup__row">
+	<a href="https://redux-course.vercel.app/" class="startup__img"><img src="img/ReactAdvanced.png"/></a>
+	<div class="startup__description">
+		<h3>About project</h3>
+		<p><span>Github Search. React \ Redux Toolkit application on Typescript</span></p>
+		<ul>
+			<li>Live search пользователя Github по его username. Асинхронные запросы при помощи RTK Query (createApi) для получения данных пользователя от Github api</li>
+			<li>Обработка ошибок при запросах, индикатор процеса загрузки</li>
+			<li>State manager - Redux Toolkit: configureStore, createSlice, createApi, useDispatch, useSelector</li>
+			<li>Полученные данные рендерятся внутри функциональных компонентов React</li>
+			<li>Реализованна функция добавления \ удаления ссылки на Github репозиторий в избранное с сохранением данных в Local Storage </li>
+			</ul>
+		</div>
+	</div>
+
+<!-- Блок проекта - React, Redux, JavaScript  -->
+
 <h2><a href="https://redux-course.vercel.app/">React, Redux, Javascript</a></h2>
 
 [![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/redux_course)
