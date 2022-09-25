@@ -237,7 +237,7 @@
 
 
 <div class="startup__row">
-	<a href="https://redux-course.vercel.app/" class="startup__img"><img src="img/ReactAdvanced.png"/></a>
+	<a href="https://react-advanced-taupe.vercel.app/" class="startup__img"><img src="img/ReactAdvanced.png"/></a>
 	<div class="startup__description">
 		<h3>About project</h3>
 		<p><span>Github Search. React \ Redux Toolkit application on Typescript</span></p>
