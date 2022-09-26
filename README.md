@@ -181,12 +181,12 @@
 			<li> <b>HTML</b> - DOM, теги, атрибуты, семантика </li> 
 			<li> <b>CSS</b> - БЭМ, селекторы, свойства, классы, псевдоклассы, псевдоэлементы, каскадирование, наследование, приоритет, медиазапросы  </li> 
 			<li> <b>SCSS</b> - переменные, вложенность, фрагментирование, миксины, расширение, мат.операторы</li> 
-			<li> <b>JavaScript</b> -  </li> 
-			<li> <b>TypeScript</b> -  </li> 
-			<li> <b>React</b> -  </li> 
-			<li> <b>Redux Toolkit</b> -  </li> 
-			<li> <b>GIT</b> -  </li> 
-			<li> <b>Webpack</b> -  </li> 
+			<li> <b>JavaScript</b> - переменные, типы данных, операторы, условия, циклы, функции (рекурсия, замыкание, колбеки, промисы), классы, обьекты, прототипное наследование, this, работа с DOM, модули, обработка ошибок </li> 
+			<li> <b>TypeScript</b> - типы данных, проверка типов, преобразование типов, generic, tuples, enum, alias, интерфейсы, модификаторы доступа </li> 
+			<li> <b>React</b> - jsx разметка, рендеринг, компоненты, пропсы, состояние, контекст, обработчики событий, формы, списки и ключи </li> 
+			<li> <b>Redux \ Toolkit</b> - store, actions, reducers, saga, slices, RTK Query, using with TypeScript </li> 
+			<li> <b>GIT</b> - команды config, init, add, commit, reset, revert, rebase, clone, remote, push, pull, branch, checkout, merge, log </li> 
+			<li> <b>Webpack</b> - точка входа\выхода, bundle, plugins, loaders, mode (dev,prod), dev server </li> 
 			<li> <b>NodeJS</b> -  </li> 
 			</ul>
 		<p> Увлекаюсь йогой, плаванием, горным трекингом и игрой на музыкальных инструментах. </p>
