@@ -178,16 +178,18 @@
 		<p> В поиске IT вакансий и команды для совместной веб разработки. </p>
 		<p>Из языков и технологий знаю:</p>
 			<ul>
-			<li> <b>HTML</b> - DOM, теги, атрибуты, семантика </li> 
+			<li> <b>WEB</b> - клиент-сервер, протоколы - tcp\ip, dns, dhcp, http (get, post, put, delete, option) </li> 
+			<li> <b>HTML</b> - структура документа, теги, атрибуты, формы, семантика </li> 
 			<li> <b>CSS</b> - БЭМ, селекторы, свойства, классы, псевдоклассы, псевдоэлементы, каскадирование, наследование, приоритет, медиазапросы  </li> 
 			<li> <b>SCSS</b> - переменные, вложенность, фрагментирование, миксины, расширение, мат.операторы</li> 
-			<li> <b>JavaScript</b> - переменные, типы данных, операторы, условия, циклы, функции (рекурсия, замыкание, колбеки, промисы), классы, обьекты, прототипное наследование, this, работа с DOM, модули, обработка ошибок </li> 
+			<li> <b>JavaScript</b> - переменные, типы данных, операторы, условия, циклы, функции (рекурсия, замыкание, колбеки, промисы), классы, обьекты, прототипное наследование, this, работа с DOM, модули, обработка ошибок, паттерны (ООП, MVC) </li> 
 			<li> <b>TypeScript</b> - типы данных, проверка типов, преобразование типов, generic, tuples, enum, alias, интерфейсы, модификаторы доступа </li> 
 			<li> <b>React</b> - jsx разметка, рендеринг, компоненты, пропсы, состояние, контекст, обработчики событий, формы, списки и ключи </li> 
 			<li> <b>Redux \ Toolkit</b> - store, actions, reducers, saga, slices, RTK Query, using with TypeScript </li> 
 			<li> <b>GIT</b> - команды config, init, add, commit, reset, revert, rebase, clone, remote, push, pull, branch, checkout, merge, log </li> 
 			<li> <b>Webpack</b> - точка входа\выхода, bundle, plugins, loaders, mode (dev,prod), dev server </li> 
-			<li> <b>NodeJS</b> -  </li> 
+			<li> <b>NodeJS</b> -  </li>
+			<li> <b>Unit тестирование</b> -  </li> 
 			</ul>
 		<p> Увлекаюсь йогой, плаванием, горным трекингом и игрой на музыкальных инструментах. </p>
 	</div>
@@ -198,8 +200,7 @@
 <h2>Follow me:</h2>
 [![linkedin](https://img.shields.io/badge/Linkedin-0189B4?style=flat&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/larionov-anton05/)
 
-
-[![phone](https://img.shields.io/badge/PHONE_+7_(988)_570_72_57-0189B4?style=flat&logo=apple&logoColor=D9D9D9)](tel:+79885707257)
+[![phone](<https://img.shields.io/badge/PHONE_+7_(988)_570_72_57-0189B4?style=flat&logo=apple&logoColor=D9D9D9>)](tel:+79885707257)
 [![email](https://img.shields.io/badge/EMAIL_larionovanton05@gmail.com-0189B4?style=flat&logo=gmail&logoColor=F44336)](mailto:larionovanton05@gmail.com)
 [![telegram](https://img.shields.io/badge/TELEGRAM-0189B4?style=flat&logo=telegram&logoColor=1D97C9)](https://t.me/AntonLarionov1)
 [![instagram](https://img.shields.io/badge/INSTARAM-0189B4?style=flat&logo=instagram&logoColor=B83092)](https://www.instagram.com/seignior.anlarion/)
@@ -214,7 +215,7 @@
 ![pug](https://img.shields.io/badge/PUG-7A8573?style=flat&logo=pug&logoColor=A86454)
 ![css](https://img.shields.io/badge/CSS3-7A8573?style=flat&logo=css3&logoColor=117B11)
 ![scss](https://img.shields.io/badge/SCSS-7A8573?style=flat&logo=sass&logoColor=D05385)
-![JS(OOP/MVC)](https://img.shields.io/badge/JS_(OOP/MVC)-7A8573?style=flat&logo=javascript&logoColor=F7E01D)
+![JS(OOP/MVC)](<https://img.shields.io/badge/JS_(OOP/MVC)-7A8573?style=flat&logo=javascript&logoColor=F7E01D>)
 ![TypeScript](https://img.shields.io/badge/TYPE_SCRIPT-7A8573?style=flat&logo=typescript&logoColor=3179C7)
 
 <h2>Tools:</h2>
@@ -230,11 +231,10 @@
 ![vscode](https://img.shields.io/badge/VSCODE-7A8573?style=flat&logo=Visualstudio&logoColor=0278CB)
 ![avocode](https://img.shields.io/badge/AVOCODE-7A8573?style=flat&logo=adobephotoshop&logoColor=00BD87)
 
-
 <!-- Блок проекта - React, Redux Toolkit, Typescript  -->
 
 <h1 class="startup__title">Portfolio</h1>
-<h2><a href="https://react-advanced-taupe.vercel.app/">React, Redux Toolkit, Typescript</a></h2>
+<h2><a target="_blank" href="https://react-advanced-taupe.vercel.app/">React, Redux Toolkit, Typescript</a></h2>
 
 [![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/react_advanced)
 
@@ -245,10 +245,8 @@
 ![redux](https://img.shields.io/badge/REDUX_TOOLKIT-FACC15?style=plastic&logo=redux&logoColor=764ABC)
 ![tailwind](https://img.shields.io/badge/TAILWIND_CSS-FACC15?style=plastic&logo=tailwindcss&logoColor=764ABC)
 
-
-
 <div class="startup__row">
-	<a href="https://react-advanced-taupe.vercel.app/" class="startup__img"><img src="img/ReactAdvanced.png"/></a>
+	<a target="_blank" href="https://react-advanced-taupe.vercel.app/" class="startup__img"><img src="img/ReactAdvanced.png"/></a>
 	<div class="startup__description">
 		<h3>About project</h3>
 		<p><span>Github Search. React \ Redux Toolkit application on Typescript</span></p>
@@ -264,7 +262,7 @@
 
 <!-- Блок проекта - React, Redux, JavaScript  -->
 
-<h2><a href="https://redux-course.vercel.app/">React, Redux, Javascript</a></h2>
+<h2><a target="_blank" href="https://redux-course.vercel.app/">React, Redux, Javascript</a></h2>
 
 [![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/redux_course)
 
@@ -274,11 +272,8 @@
 ![react](https://img.shields.io/badge/REACT-266560?style=plastic&logo=react&logoColor=67D1FF)
 ![redux](https://img.shields.io/badge/REDUX-266560?style=plastic&logo=redux&logoColor=764ABC)
 
-
-
-
 <div class="startup__row">
-	<a href="https://redux-course.vercel.app/" class="startup__img"><img src="img/ReactRedux.png"/></a>
+	<a target="_blank" href="https://redux-course.vercel.app/" class="startup__img"><img src="img/ReactRedux.png"/></a>
 	<div class="startup__description">
 		<h3>About project</h3>
 		<p><span>React \ Redux application on JavaScript</span></p>
@@ -294,7 +289,7 @@
 
 <!-- Блок проекта - React application -->
 
-<h2><a href="https://react-course-bay.vercel.app/">React application on TypeScript</a></h2>
+<h2><a target="_blank" href="https://react-course-bay.vercel.app/">React application on TypeScript</a></h2>
 
 [![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/react_course)
 
@@ -303,11 +298,8 @@
 ![ts](https://img.shields.io/badge/TYPESCRIPT-313E4F?style=plastic&logo=typescript&logoColor=3179C7)
 ![react](https://img.shields.io/badge/REACT-313E4F?style=plastic&logo=react&logoColor=67D1FF)
 
-
-
-
 <div class="startup__row">
-	<a href="https://react-course-bay.vercel.app/" class="startup__img"><img src="img/ReactAppTypescript.png"/></a>
+	<a target="_blank" href="https://react-course-bay.vercel.app/" class="startup__img"><img src="img/ReactAppTypescript.png"/></a>
 	<div class="startup__description">
 		<h3>About project</h3>
 		<p><span>React application on TypeScript</span></p>
@@ -316,6 +308,7 @@
 			<li>Асинхронные запросы реализованны при помощи кастомного хука</li>
 			<li>Полученные товары рендерятся внутри функциональных компонентов React: components, state, hooks, props, jsx, event handlers </li>
 			<li>Данные приложения распределятся React Context и строго типизированны TypeScript</li>
+			<li>Роутинг страниц - 'react-router-dom'</li>
 			<li>Реализованна кнопка "Показать Детали" через хук useState</li>
 			<li>Реализованна возможность добавить собственный товар передав заголовок через асинхронный запрос на 'fakestoreapi'</li>
 			</ul>
@@ -324,7 +317,9 @@
 
 <!-- Блок проекта - Calculator OOP\MVC -->
 
-<h2><a href="https://larionov-anton.github.io/calculator_oop/dist/">Calcuator (OOP/MVC)</a></h2>
+<>
+
+<h2><a target="_blank" href="https://larionov-anton.github.io/calculator_oop/dist/">Calcuator (OOP/MVC)</a></h2>
 
 [![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/calculator_oop)
 
@@ -334,9 +329,8 @@
 ![OOP/MVC](https://img.shields.io/badge/OOP_MVC-FF9501?style=plastic&logo=javascript&logoColor=F7E01D)
 ![Webpack](https://img.shields.io/badge/WEBPACK-FF9501?style=plastic&logo=webpack&logoColor=F7E01D)
 
-
 <div class="startup__row">
-	<a href="https://larionov-anton.github.io/calculator_oop/dist/" class="startup__img"><img src="img/Calculator.png"/></a>
+	<a target="_blank" href="https://larionov-anton.github.io/calculator_oop/dist/" class="startup__img"><img src="img/Calculator.png"/></a>
 	<div class="startup__description">
 		<h3>About project</h3>
 		<p><span>Calculator on JavaScript (OOP/MVC)</span></p>
@@ -352,7 +346,7 @@
 
 <!-- Блок проекта - Todo JS -->
 
-<h2><a href="https://larionov-anton.github.io/todo_js/public/">Todo JS (OOP\MVC)</a></h2>
+<h2><a target="_blank" href="https://larionov-anton.github.io/todo_js/public/">Todo JS (OOP\MVC)</a></h2>
 
 [![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/todo_js)
 
@@ -361,25 +355,24 @@
 ![js](https://img.shields.io/badge/JAVASCRIPT-BE61FB?style=plastic&logo=javascript&logoColor=F7E01D)
 ![OOP/MVC](https://img.shields.io/badge/OOP_MVC-BE61FB?style=plastic&logo=javascript&logoColor=F7E01D)
 
-
 <div class="startup__row">
-	<a href="https://larionov-anton.github.io/todo_js/public/" class="startup__img"><img src="img/Todo_JS.png"/></a>
+	<a target="_blank" href="https://larionov-anton.github.io/todo_js/public/" class="startup__img"><img src="img/Todo_JS.png"/></a>
 	<div class="startup__description">
 		<h3>About project</h3>
 		<p><span>Todo list on JavaScript (OOP/MVC)</span></p>
 		<ul>
 			<li>Структура проекта составлена в соответствии с паттерном MVC в объектно-ориентированном стиле</li>
 			<li>Вся логика написана на ванильном JavaScript</li>
+			<li>События данных реализованны через Event Emmiter</li>
 			<li>Приложение умеет: добавлять, редактировать, отмечать как выбранные и удалять задачи</li>
 			<li>Данные приложения сохраняются в local storage</li>
 			</ul>
 		</div>
 	</div>
 
-
 <!-- Блок проекта - Landig page startup -->
 
-<h2><a href="https://larionov-anton.github.io/startup/">Startup</a></h2>
+<h2><a target="_blank" href="https://larionov-anton.github.io/startup/">Startup</a></h2>
 
 [![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/startup)
 
@@ -394,7 +387,7 @@
 ![marsy](https://img.shields.io/badge/MARSY-701E16?style=plastic&logo=adobephotoshop&logoColor=FCEC7D)
 
 <div class="startup__row">
-	<a href="https://larionov-anton.github.io/startup/" class="startup__img"><img src="img/startup.jpg"/></a>
+	<a target="_blank" href="https://larionov-anton.github.io/startup/" class="startup__img"><img src="img/startup.jpg"/></a>
 	<div class="startup__description">
 		<h3>About project</h3>
 		<p><span>Landing Page</span></p>
@@ -410,10 +403,9 @@
 		</div>
 	</div>
 
-
 <!-- Блок проекта - Тестовое задание по верстке Rocket_Business -->
 
-<h2><a href="https://larionov-anton.github.io/test_Rocket_Business/">Multidisciplinary clinic</a></h2>
+<h2><a target="_blank" href="https://larionov-anton.github.io/test_Rocket_Business/">Multidisciplinary clinic</a></h2>
 
 [![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/test_Rocket_Business)
 
@@ -428,7 +420,7 @@
 ![marsy](https://img.shields.io/badge/MARSY-1FA181?style=plastic&logo=adobephotoshop&logoColor=FCEC7D)
 
 <div class="startup__row">
-	<a href="https://larionov-anton.github.io/test_Rocket_Business/" class="startup__img"><img src="img/Rocket.png"/></a>
+	<a target="_blank" href="https://larionov-anton.github.io/test_Rocket_Business/" class="startup__img"><img src="img/Rocket.png"/></a>
 	<div class="startup__description">
 		<h3>About project</h3>
 		<p><span>Тестовое задание по верстке</span></p>
@@ -446,11 +438,9 @@
 		</div>
 	</div>
 
-
-
 <!-- Блок проекта - Тестовое задание по верстке Elon Musc -->
 
-<h2><a href="https://larionov-anton.github.io/Elon_Musc/">Elon Musc</a></h2>
+<h2><a target="_blank" href="https://larionov-anton.github.io/Elon_Musc/">Elon Musc</a></h2>
 
 [![github](https://img.shields.io/badge/VIEW ON GITHUB-0189B4?style=flat&logo=github&logoColor=000000)](https://github.com/Larionov-Anton/Elon_Musc)
 
@@ -465,7 +455,7 @@
 ![marsy](https://img.shields.io/badge/MARSY-0c161e?style=plastic&logo=adobephotoshop&logoColor=FCEC7D)
 
 <div class="startup__row">
-	<a href="https://larionov-anton.github.io/Elon_Musc/" class="startup__img"><img src="img/Elon_Musc.jpg"/></a>
+	<a target="_blank" href="https://larionov-anton.github.io/Elon_Musc/" class="startup__img"><img src="img/Elon_Musc.jpg"/></a>
 	<div class="startup__description">
 		<h3>About project</h3>
 		<p><span>Тестовое задание по верстке</span></p>
@@ -489,5 +479,3 @@
 	<h3>Frontend Web Developer</h3>
 	<h3>Rostov-on-don</h3>
 </footer>
-
-
